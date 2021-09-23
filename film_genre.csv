@@ -1,0 +1,1241 @@
+"","rank","Name_of_movie","Movie_genre","Year_of_release","Runtime_min","Ratings","Votes","Metascore","Gross_collection"
+"1",1,"The Shawshank Redemption","Drama",1994,142,9.3,2384498,80,28.34
+"2",2,"The Godfather","Crime",1972,175,9.2,1652566,100,134.97
+"3",2,"The Godfather","Drama",1972,175,9.2,1652566,100,134.97
+"4",3,"The Dark Knight","Action",2008,152,9,2347962,84,534.86
+"5",3,"The Dark Knight","Crime",2008,152,9,2347962,84,534.86
+"6",3,"The Dark Knight","Drama",2008,152,9,2347962,84,534.86
+"7",4,"The Godfather: Part II","Crime",1974,202,9,1149888,90,57.3
+"8",4,"The Godfather: Part II","Drama",1974,202,9,1149888,90,57.3
+"9",5,"12 Angry Men","Crime",1957,96,9,704057,96,4.36
+"10",5,"12 Angry Men","Drama",1957,96,9,704057,96,4.36
+"11",6,"The Lord of the Rings: The Return of the King","Action",2003,201,8.9,1668051,94,377.85
+"12",6,"The Lord of the Rings: The Return of the King","Adventure",2003,201,8.9,1668051,94,377.85
+"13",6,"The Lord of the Rings: The Return of the King","Drama",2003,201,8.9,1668051,94,377.85
+"14",7,"Pulp Fiction","Crime",1994,154,8.9,1857194,94,107.93
+"15",7,"Pulp Fiction","Drama",1994,154,8.9,1857194,94,107.93
+"16",8,"Schindler's List","Biography",1993,195,8.9,1232952,94,96.9
+"17",8,"Schindler's List","Drama",1993,195,8.9,1232952,94,96.9
+"18",8,"Schindler's List","History",1993,195,8.9,1232952,94,96.9
+"19",9,"Inception","Action",2010,148,8.8,2106219,74,292.58
+"20",9,"Inception","Adventure",2010,148,8.8,2106219,74,292.58
+"21",9,"Inception","Sci-Fi",2010,148,8.8,2106219,74,292.58
+"22",10,"Fight Club","Drama",1999,139,8.8,1886437,66,37.03
+"23",11,"The Lord of the Rings: The Fellowship of the Ring","Action",2001,178,8.8,1688541,92,315.54
+"24",11,"The Lord of the Rings: The Fellowship of the Ring","Adventure",2001,178,8.8,1688541,92,315.54
+"25",11,"The Lord of the Rings: The Fellowship of the Ring","Drama",2001,178,8.8,1688541,92,315.54
+"26",12,"Forrest Gump","Drama",1994,142,8.8,1844811,82,330.25
+"27",12,"Forrest Gump","Romance",1994,142,8.8,1844811,82,330.25
+"28",13,"Il buono, il brutto, il cattivo","Western",1966,161,8.8,698626,90,6.1
+"29",14,"The Lord of the Rings: The Two Towers","Action",2002,179,8.7,1508418,87,342.55
+"30",14,"The Lord of the Rings: The Two Towers","Adventure",2002,179,8.7,1508418,87,342.55
+"31",14,"The Lord of the Rings: The Two Towers","Drama",2002,179,8.7,1508418,87,342.55
+"32",15,"The Matrix","Action",1999,136,8.7,1705257,73,171.48
+"33",15,"The Matrix","Sci-Fi",1999,136,8.7,1705257,73,171.48
+"34",16,"Goodfellas","Biography",1990,146,8.7,1039505,90,46.84
+"35",16,"Goodfellas","Crime",1990,146,8.7,1039505,90,46.84
+"36",16,"Goodfellas","Drama",1990,146,8.7,1039505,90,46.84
+"37",17,"Star Wars: Episode V - The Empire Strikes Back","Action",1980,124,8.7,1175846,82,290.48
+"38",17,"Star Wars: Episode V - The Empire Strikes Back","Adventure",1980,124,8.7,1175846,82,290.48
+"39",17,"Star Wars: Episode V - The Empire Strikes Back","Fantasy",1980,124,8.7,1175846,82,290.48
+"40",18,"One Flew Over the Cuckoo's Nest","Drama",1975,133,8.7,931196,83,112
+"41",19,"Gisaengchung","Comedy",2019,132,8.6,599081,96,53.37
+"42",19,"Gisaengchung","Drama",2019,132,8.6,599081,96,53.37
+"43",19,"Gisaengchung","Thriller",2019,132,8.6,599081,96,53.37
+"44",20,"Soorarai Pottru","Drama",2020,153,8.6,59325,NA,NA
+"45",21,"Interstellar","Adventure",2014,169,8.6,1550809,74,188.02
+"46",21,"Interstellar","Drama",2014,169,8.6,1550809,74,188.02
+"47",21,"Interstellar","Sci-Fi",2014,169,8.6,1550809,74,188.02
+"48",22,"Cidade de Deus","Crime",2002,130,8.6,707952,79,7.56
+"49",22,"Cidade de Deus","Drama",2002,130,8.6,707952,79,7.56
+"50",23,"Sen to Chihiro no kamikakushi","Animation",2001,125,8.6,667757,96,10.06
+"51",23,"Sen to Chihiro no kamikakushi","Adventure",2001,125,8.6,667757,96,10.06
+"52",23,"Sen to Chihiro no kamikakushi","Family",2001,125,8.6,667757,96,10.06
+"53",24,"Saving Private Ryan","Drama",1998,169,8.6,1258494,91,216.54
+"54",24,"Saving Private Ryan","War",1998,169,8.6,1258494,91,216.54
+"55",25,"The Green Mile","Crime",1999,189,8.6,1169794,61,136.8
+"56",25,"The Green Mile","Drama",1999,189,8.6,1169794,61,136.8
+"57",25,"The Green Mile","Fantasy",1999,189,8.6,1169794,61,136.8
+"58",26,"La vita è bella","Comedy",1997,116,8.6,634922,59,57.6
+"59",26,"La vita è bella","Drama",1997,116,8.6,634922,59,57.6
+"60",26,"La vita è bella","Romance",1997,116,8.6,634922,59,57.6
+"61",27,"Se7en","Crime",1995,127,8.6,1472264,65,100.13
+"62",27,"Se7en","Drama",1995,127,8.6,1472264,65,100.13
+"63",27,"Se7en","Mystery",1995,127,8.6,1472264,65,100.13
+"64",28,"The Silence of the Lambs","Crime",1991,118,8.6,1294317,85,130.74
+"65",28,"The Silence of the Lambs","Drama",1991,118,8.6,1294317,85,130.74
+"66",28,"The Silence of the Lambs","Thriller",1991,118,8.6,1294317,85,130.74
+"67",29,"Star Wars","Action",1977,121,8.6,1247900,90,322.74
+"68",29,"Star Wars","Adventure",1977,121,8.6,1247900,90,322.74
+"69",29,"Star Wars","Fantasy",1977,121,8.6,1247900,90,322.74
+"70",30,"Seppuku","Action",1962,133,8.6,44618,85,NA
+"71",30,"Seppuku","Drama",1962,133,8.6,44618,85,NA
+"72",30,"Seppuku","Mystery",1962,133,8.6,44618,85,NA
+"73",31,"Shichinin no samurai","Action",1954,207,8.6,320604,98,0.27
+"74",31,"Shichinin no samurai","Adventure",1954,207,8.6,320604,98,0.27
+"75",31,"Shichinin no samurai","Drama",1954,207,8.6,320604,98,0.27
+"76",32,"It's a Wonderful Life","Drama",1946,130,8.6,411582,89,NA
+"77",32,"It's a Wonderful Life","Family",1946,130,8.6,411582,89,NA
+"78",32,"It's a Wonderful Life","Fantasy",1946,130,8.6,411582,89,NA
+"79",33,"Hamilton","Biography",2020,160,8.5,63379,90,NA
+"80",33,"Hamilton","Drama",2020,160,8.5,63379,90,NA
+"81",33,"Hamilton","History",2020,160,8.5,63379,90,NA
+"82",34,"Ratsasan","Action",2018,170,8.5,27942,NA,NA
+"83",34,"Ratsasan","Crime",2018,170,8.5,27942,NA,NA
+"84",34,"Ratsasan","Thriller",2018,170,8.5,27942,NA,NA
+"85",35,"Whiplash","Drama",2014,106,8.5,735443,88,13.09
+"86",35,"Whiplash","Music",2014,106,8.5,735443,88,13.09
+"87",36,"The Intouchables","Biography",2011,112,8.5,775995,57,13.18
+"88",36,"The Intouchables","Comedy",2011,112,8.5,775995,57,13.18
+"89",36,"The Intouchables","Drama",2011,112,8.5,775995,57,13.18
+"90",37,"The Prestige","Drama",2006,130,8.5,1211646,66,53.09
+"91",37,"The Prestige","Mystery",2006,130,8.5,1211646,66,53.09
+"92",37,"The Prestige","Sci-Fi",2006,130,8.5,1211646,66,53.09
+"93",38,"The Departed","Crime",2006,151,8.5,1209505,85,132.38
+"94",38,"The Departed","Drama",2006,151,8.5,1209505,85,132.38
+"95",38,"The Departed","Thriller",2006,151,8.5,1209505,85,132.38
+"96",39,"The Pianist","Biography",2002,150,8.5,745934,85,32.57
+"97",39,"The Pianist","Drama",2002,150,8.5,745934,85,32.57
+"98",39,"The Pianist","Music",2002,150,8.5,745934,85,32.57
+"99",40,"Gladiator","Action",2000,155,8.5,1362369,67,187.71
+"100",40,"Gladiator","Adventure",2000,155,8.5,1362369,67,187.71
+"101",40,"Gladiator","Drama",2000,155,8.5,1362369,67,187.71
+"102",41,"American History X","Drama",1998,119,8.5,1047377,62,6.72
+"103",42,"The Usual Suspects","Crime",1995,106,8.5,1005067,77,23.34
+"104",42,"The Usual Suspects","Mystery",1995,106,8.5,1005067,77,23.34
+"105",42,"The Usual Suspects","Thriller",1995,106,8.5,1005067,77,23.34
+"106",43,"Léon","Action",1994,110,8.5,1053158,64,19.5
+"107",43,"Léon","Crime",1994,110,8.5,1053158,64,19.5
+"108",43,"Léon","Drama",1994,110,8.5,1053158,64,19.5
+"109",44,"The Lion King","Animation",1994,88,8.5,958633,88,422.78
+"110",44,"The Lion King","Adventure",1994,88,8.5,958633,88,422.78
+"111",44,"The Lion King","Drama",1994,88,8.5,958633,88,422.78
+"112",45,"Terminator 2: Judgment Day","Action",1991,137,8.5,1008389,75,204.84
+"113",45,"Terminator 2: Judgment Day","Sci-Fi",1991,137,8.5,1008389,75,204.84
+"114",46,"Nuovo Cinema Paradiso","Drama",1988,155,8.5,235626,80,11.99
+"115",46,"Nuovo Cinema Paradiso","Romance",1988,155,8.5,235626,80,11.99
+"116",47,"Hotaru no haka","Animation",1988,89,8.5,241859,94,NA
+"117",47,"Hotaru no haka","Drama",1988,89,8.5,241859,94,NA
+"118",47,"Hotaru no haka","War",1988,89,8.5,241859,94,NA
+"119",48,"Back to the Future","Adventure",1985,116,8.5,1077988,87,210.61
+"120",48,"Back to the Future","Comedy",1985,116,8.5,1077988,87,210.61
+"121",48,"Back to the Future","Sci-Fi",1985,116,8.5,1077988,87,210.61
+"122",49,"Once Upon a Time in the West","Western",1968,165,8.5,307176,80,5.32
+"123",50,"Psycho","Horror",1960,109,8.5,613918,97,32
+"124",50,"Psycho","Mystery",1960,109,8.5,613918,97,32
+"125",50,"Psycho","Thriller",1960,109,8.5,613918,97,32
+"126",51,"Casablanca","Drama",1942,102,8.5,529354,100,1.02
+"127",51,"Casablanca","Romance",1942,102,8.5,529354,100,1.02
+"128",51,"Casablanca","War",1942,102,8.5,529354,100,1.02
+"129",52,"Modern Times","Comedy",1936,87,8.5,222054,96,0.16
+"130",52,"Modern Times","Drama",1936,87,8.5,222054,96,0.16
+"131",52,"Modern Times","Family",1936,87,8.5,222054,96,0.16
+"132",53,"City Lights","Comedy",1931,87,8.5,170709,99,0.02
+"133",53,"City Lights","Drama",1931,87,8.5,170709,99,0.02
+"134",53,"City Lights","Romance",1931,87,8.5,170709,99,0.02
+"135",54,"Capharnaüm","Drama",2018,126,8.4,67952,75,1.66
+"136",55,"Joker","Crime",2019,122,8.4,989721,59,335.45
+"137",55,"Joker","Drama",2019,122,8.4,989721,59,335.45
+"138",55,"Joker","Thriller",2019,122,8.4,989721,59,335.45
+"139",56,"Ayla: The Daughter of War","Biography",2017,125,8.4,35300,NA,NA
+"140",56,"Ayla: The Daughter of War","Drama",2017,125,8.4,35300,NA,NA
+"141",56,"Ayla: The Daughter of War","History",2017,125,8.4,35300,NA,NA
+"142",57,"Vikram Vedha","Action",2017,147,8.4,29862,NA,NA
+"143",57,"Vikram Vedha","Crime",2017,147,8.4,29862,NA,NA
+"144",57,"Vikram Vedha","Drama",2017,147,8.4,29862,NA,NA
+"145",58,"Kimi no na wa.","Animation",2016,106,8.4,206556,79,5.02
+"146",58,"Kimi no na wa.","Drama",2016,106,8.4,206556,79,5.02
+"147",58,"Kimi no na wa.","Fantasy",2016,106,8.4,206556,79,5.02
+"148",59,"Dangal","Action",2016,161,8.4,161610,NA,12.39
+"149",59,"Dangal","Biography",2016,161,8.4,161610,NA,12.39
+"150",59,"Dangal","Drama",2016,161,8.4,161610,NA,12.39
+"151",60,"Spider-Man: Into the Spider-Verse","Animation",2018,117,8.4,396160,87,190.24
+"152",60,"Spider-Man: Into the Spider-Verse","Action",2018,117,8.4,396160,87,190.24
+"153",60,"Spider-Man: Into the Spider-Verse","Adventure",2018,117,8.4,396160,87,190.24
+"154",61,"Avengers: Endgame","Action",2019,181,8.4,865101,78,858.37
+"155",61,"Avengers: Endgame","Adventure",2019,181,8.4,865101,78,858.37
+"156",61,"Avengers: Endgame","Drama",2019,181,8.4,865101,78,858.37
+"157",62,"Avengers: Infinity War","Action",2018,149,8.4,871231,68,678.82
+"158",62,"Avengers: Infinity War","Adventure",2018,149,8.4,871231,68,678.82
+"159",62,"Avengers: Infinity War","Sci-Fi",2018,149,8.4,871231,68,678.82
+"160",63,"Coco(I)","Animation",2017,105,8.4,402394,81,209.73
+"161",63,"Coco(I)","Adventure",2017,105,8.4,402394,81,209.73
+"162",63,"Coco(I)","Family",2017,105,8.4,402394,81,209.73
+"163",64,"Django Unchained","Drama",2012,165,8.4,1384382,81,162.81
+"164",64,"Django Unchained","Western",2012,165,8.4,1384382,81,162.81
+"165",65,"The Dark Knight Rises","Action",2012,164,8.4,1540637,78,448.14
+"166",65,"The Dark Knight Rises","Adventure",2012,164,8.4,1540637,78,448.14
+"167",66,"3 Idiots","Comedy",2009,170,8.4,351884,67,6.53
+"168",66,"3 Idiots","Drama",2009,170,8.4,351884,67,6.53
+"169",67,"Taare Zameen Par","Drama",2007,165,8.4,173353,NA,1.22
+"170",67,"Taare Zameen Par","Family",2007,165,8.4,173353,NA,1.22
+"171",68,"WALL·E","Animation",2008,98,8.4,1016142,95,223.81
+"172",68,"WALL·E","Adventure",2008,98,8.4,1016142,95,223.81
+"173",68,"WALL·E","Family",2008,98,8.4,1016142,95,223.81
+"174",69,"The Lives of Others","Drama",2006,137,8.4,364481,89,11.29
+"175",69,"The Lives of Others","Mystery",2006,137,8.4,364481,89,11.29
+"176",69,"The Lives of Others","Thriller",2006,137,8.4,364481,89,11.29
+"177",70,"Oldeuboi","Action",2003,120,8.4,525142,77,0.71
+"178",70,"Oldeuboi","Drama",2003,120,8.4,525142,77,0.71
+"179",70,"Oldeuboi","Mystery",2003,120,8.4,525142,77,0.71
+"180",71,"Memento","Mystery",2000,113,8.4,1141883,80,25.54
+"181",71,"Memento","Thriller",2000,113,8.4,1141883,80,25.54
+"182",72,"Mononoke-hime","Animation",1997,134,8.4,351255,76,2.38
+"183",72,"Mononoke-hime","Action",1997,134,8.4,351255,76,2.38
+"184",72,"Mononoke-hime","Adventure",1997,134,8.4,351255,76,2.38
+"185",73,"Once Upon a Time in America","Crime",1984,229,8.4,317275,NA,5.32
+"186",73,"Once Upon a Time in America","Drama",1984,229,8.4,317275,NA,5.32
+"187",74,"Raiders of the Lost Ark","Action",1981,115,8.4,895242,85,248.16
+"188",74,"Raiders of the Lost Ark","Adventure",1981,115,8.4,895242,85,248.16
+"189",75,"The Shining","Drama",1980,146,8.4,914521,66,44.02
+"190",75,"The Shining","Horror",1980,146,8.4,914521,66,44.02
+"191",76,"Apocalypse Now","Drama",1979,147,8.4,615849,94,83.47
+"192",76,"Apocalypse Now","Mystery",1979,147,8.4,615849,94,83.47
+"193",76,"Apocalypse Now","War",1979,147,8.4,615849,94,83.47
+"194",77,"Alien","Horror",1979,117,8.4,800658,89,78.9
+"195",77,"Alien","Sci-Fi",1979,117,8.4,800658,89,78.9
+"196",78,"Tengoku to jigoku","Crime",1963,143,8.4,36338,NA,NA
+"197",78,"Tengoku to jigoku","Drama",1963,143,8.4,36338,NA,NA
+"198",78,"Tengoku to jigoku","Mystery",1963,143,8.4,36338,NA,NA
+"199",79,"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb","Comedy",1964,95,8.4,456404,97,0.28
+"200",80,"Witness for the Prosecution","Crime",1957,116,8.4,111500,NA,8.18
+"201",80,"Witness for the Prosecution","Drama",1957,116,8.4,111500,NA,8.18
+"202",80,"Witness for the Prosecution","Mystery",1957,116,8.4,111500,NA,8.18
+"203",81,"Paths of Glory","Drama",1957,88,8.4,181479,90,NA
+"204",81,"Paths of Glory","War",1957,88,8.4,181479,90,NA
+"205",82,"Rear Window","Mystery",1954,112,8.4,450801,100,36.76
+"206",82,"Rear Window","Thriller",1954,112,8.4,450801,100,36.76
+"207",83,"Sunset Blvd.","Drama",1950,110,8.4,204882,NA,NA
+"208",83,"Sunset Blvd.","Film-Noir",1950,110,8.4,204882,NA,NA
+"209",84,"The Great Dictator","Comedy",1940,125,8.4,206382,NA,0.29
+"210",84,"The Great Dictator","Drama",1940,125,8.4,206382,NA,0.29
+"211",84,"The Great Dictator","War",1940,125,8.4,206382,NA,0.29
+"212",85,"1917","Drama",2019,119,8.3,456213,78,159.23
+"213",85,"1917","Thriller",2019,119,8.3,456213,78,159.23
+"214",85,"1917","War",2019,119,8.3,456213,78,159.23
+"215",86,"Tumbbad","Drama",2018,104,8.3,29914,NA,NA
+"216",86,"Tumbbad","Fantasy",2018,104,8.3,29914,NA,NA
+"217",86,"Tumbbad","Horror",2018,104,8.3,29914,NA,NA
+"218",87,"Drishyam","Crime",2013,160,8.3,34868,NA,NA
+"219",87,"Drishyam","Drama",2013,160,8.3,34868,NA,NA
+"220",87,"Drishyam","Thriller",2013,160,8.3,34868,NA,NA
+"221",88,"Jagten","Drama",2012,115,8.3,290759,77,0.69
+"222",89,"Jodaeiye Nader az Simin","Drama",2011,123,8.3,224439,95,7.1
+"223",90,"Incendies","Drama",2010,131,8.3,154637,80,6.86
+"224",90,"Incendies","Mystery",2010,131,8.3,154637,80,6.86
+"225",90,"Incendies","War",2010,131,8.3,154637,80,6.86
+"226",91,"Dara iz Jasenovca","Drama",2020,130,8.3,34378,NA,NA
+"227",91,"Dara iz Jasenovca","War",2020,130,8.3,34378,NA,NA
+"228",92,"The Father(I)","Drama",2020,97,8.3,49184,88,NA
+"229",93,"Babam ve Oglum","Drama",2005,112,8.3,80653,NA,NA
+"230",93,"Babam ve Oglum","Family",2005,112,8.3,80653,NA,NA
+"231",94,"Inglourious Basterds","Adventure",2009,153,8.3,1293254,69,120.54
+"232",94,"Inglourious Basterds","Drama",2009,153,8.3,1293254,69,120.54
+"233",94,"Inglourious Basterds","War",2009,153,8.3,1293254,69,120.54
+"234",95,"Eternal Sunshine of the Spotless Mind","Drama",2004,108,8.3,924756,89,34.4
+"235",95,"Eternal Sunshine of the Spotless Mind","Romance",2004,108,8.3,924756,89,34.4
+"236",95,"Eternal Sunshine of the Spotless Mind","Sci-Fi",2004,108,8.3,924756,89,34.4
+"237",96,"Amélie","Comedy",2001,122,8.3,712262,69,33.23
+"238",96,"Amélie","Romance",2001,122,8.3,712262,69,33.23
+"239",97,"Snatch","Comedy",2000,104,8.3,792518,55,30.33
+"240",97,"Snatch","Crime",2000,104,8.3,792518,55,30.33
+"241",98,"Requiem for a Dream","Drama",2000,102,8.3,778289,68,3.64
+"242",99,"American Beauty","Drama",1999,122,8.3,1082672,84,130.1
+"243",100,"Good Will Hunting","Drama",1997,126,8.3,877014,70,138.43
+"244",100,"Good Will Hunting","Romance",1997,126,8.3,877014,70,138.43
+"245",101,"Bacheha-Ye aseman","Drama",1997,89,8.3,67134,77,0.93
+"246",101,"Bacheha-Ye aseman","Family",1997,89,8.3,67134,77,0.93
+"247",101,"Bacheha-Ye aseman","Sport",1997,89,8.3,67134,77,0.93
+"248",102,"Toy Story","Animation",1995,81,8.3,902073,95,191.8
+"249",102,"Toy Story","Adventure",1995,81,8.3,902073,95,191.8
+"250",102,"Toy Story","Comedy",1995,81,8.3,902073,95,191.8
+"251",103,"Braveheart","Biography",1995,178,8.3,970962,68,75.6
+"252",103,"Braveheart","Drama",1995,178,8.3,970962,68,75.6
+"253",103,"Braveheart","History",1995,178,8.3,970962,68,75.6
+"254",104,"Reservoir Dogs","Crime",1992,99,8.3,933153,79,2.83
+"255",104,"Reservoir Dogs","Drama",1992,99,8.3,933153,79,2.83
+"256",104,"Reservoir Dogs","Thriller",1992,99,8.3,933153,79,2.83
+"257",105,"Full Metal Jacket","Drama",1987,116,8.3,684654,76,46.36
+"258",105,"Full Metal Jacket","War",1987,116,8.3,684654,76,46.36
+"259",106,"Idi i smotri","Drama",1985,142,8.3,62166,NA,NA
+"260",106,"Idi i smotri","Thriller",1985,142,8.3,62166,NA,NA
+"261",106,"Idi i smotri","War",1985,142,8.3,62166,NA,NA
+"262",107,"Aliens","Action",1986,137,8.3,661329,84,85.16
+"263",107,"Aliens","Adventure",1986,137,8.3,661329,84,85.16
+"264",107,"Aliens","Sci-Fi",1986,137,8.3,661329,84,85.16
+"265",108,"Amadeus","Biography",1984,160,8.3,374123,88,51.97
+"266",108,"Amadeus","Drama",1984,160,8.3,374123,88,51.97
+"267",108,"Amadeus","History",1984,160,8.3,374123,88,51.97
+"268",109,"Scarface","Crime",1983,170,8.3,755497,65,45.6
+"269",109,"Scarface","Drama",1983,170,8.3,755497,65,45.6
+"270",110,"Star Wars: Episode VI - Return of the Jedi","Action",1983,131,8.3,963728,58,309.13
+"271",110,"Star Wars: Episode VI - Return of the Jedi","Adventure",1983,131,8.3,963728,58,309.13
+"272",110,"Star Wars: Episode VI - Return of the Jedi","Fantasy",1983,131,8.3,963728,58,309.13
+"273",111,"Das Boot","Adventure",1981,149,8.3,235089,86,11.49
+"274",111,"Das Boot","Drama",1981,149,8.3,235089,86,11.49
+"275",111,"Das Boot","Thriller",1981,149,8.3,235089,86,11.49
+"276",112,"The Sting","Comedy",1973,129,8.3,244814,83,159.6
+"277",112,"The Sting","Crime",1973,129,8.3,244814,83,159.6
+"278",112,"The Sting","Drama",1973,129,8.3,244814,83,159.6
+"279",113,"A Clockwork Orange","Crime",1971,136,8.3,768192,77,6.21
+"280",113,"A Clockwork Orange","Drama",1971,136,8.3,768192,77,6.21
+"281",113,"A Clockwork Orange","Sci-Fi",1971,136,8.3,768192,77,6.21
+"282",114,"Anand","Drama",1971,122,8.3,31412,NA,NA
+"283",114,"Anand","Musical",1971,122,8.3,31412,NA,NA
+"284",115,"2001: A Space Odyssey","Adventure",1968,149,8.3,612912,84,56.95
+"285",115,"2001: A Space Odyssey","Sci-Fi",1968,149,8.3,612912,84,56.95
+"286",116,"Lawrence of Arabia","Adventure",1962,228,8.3,272044,100,44.82
+"287",116,"Lawrence of Arabia","Biography",1962,228,8.3,272044,100,44.82
+"288",116,"Lawrence of Arabia","Drama",1962,228,8.3,272044,100,44.82
+"289",117,"The Apartment","Comedy",1960,125,8.3,167267,94,18.6
+"290",117,"The Apartment","Drama",1960,125,8.3,167267,94,18.6
+"291",117,"The Apartment","Romance",1960,125,8.3,167267,94,18.6
+"292",118,"North by Northwest","Adventure",1959,136,8.3,303238,98,13.28
+"293",118,"North by Northwest","Mystery",1959,136,8.3,303238,98,13.28
+"294",118,"North by Northwest","Thriller",1959,136,8.3,303238,98,13.28
+"295",119,"Vertigo","Mystery",1958,128,8.3,370374,100,3.2
+"296",119,"Vertigo","Romance",1958,128,8.3,370374,100,3.2
+"297",119,"Vertigo","Thriller",1958,128,8.3,370374,100,3.2
+"298",120,"Singin' in the Rain","Comedy",1952,103,8.3,222545,99,8.82
+"299",120,"Singin' in the Rain","Musical",1952,103,8.3,222545,99,8.82
+"300",120,"Singin' in the Rain","Romance",1952,103,8.3,222545,99,8.82
+"301",121,"Ikiru","Drama",1952,143,8.3,70311,NA,0.06
+"302",122,"Ladri di biciclette","Drama",1948,89,8.3,149531,NA,0.33
+"303",123,"Double Indemnity","Crime",1944,107,8.3,145894,95,5.72
+"304",123,"Double Indemnity","Drama",1944,107,8.3,145894,95,5.72
+"305",123,"Double Indemnity","Film-Noir",1944,107,8.3,145894,95,5.72
+"306",124,"Citizen Kane","Drama",1941,119,8.3,411226,100,1.59
+"307",124,"Citizen Kane","Mystery",1941,119,8.3,411226,100,1.59
+"308",125,"M - Eine Stadt sucht einen Mörder","Crime",1931,117,8.3,145987,NA,0.03
+"309",125,"M - Eine Stadt sucht einen Mörder","Mystery",1931,117,8.3,145987,NA,0.03
+"310",125,"M - Eine Stadt sucht einen Mörder","Thriller",1931,117,8.3,145987,NA,0.03
+"311",126,"Metropolis","Drama",1927,153,8.3,162459,98,1.24
+"312",126,"Metropolis","Sci-Fi",1927,153,8.3,162459,98,1.24
+"313",127,"The Kid","Comedy",1921,68,8.3,115930,NA,5.45
+"314",127,"The Kid","Drama",1921,68,8.3,115930,NA,5.45
+"315",127,"The Kid","Family",1921,68,8.3,115930,NA,5.45
+"316",128,"Chhichhore","Comedy",2019,143,8.2,35594,NA,0.9
+"317",128,"Chhichhore","Drama",2019,143,8.2,35594,NA,0.9
+"318",129,"Uri: The Surgical Strike","Action",2018,138,8.2,44494,NA,4.19
+"319",129,"Uri: The Surgical Strike","Drama",2018,138,8.2,44494,NA,4.19
+"320",129,"Uri: The Surgical Strike","War",2018,138,8.2,44494,NA,4.19
+"321",130,"Andhadhun","Crime",2018,139,8.2,75351,NA,1.37
+"322",130,"Andhadhun","Drama",2018,139,8.2,75351,NA,1.37
+"323",130,"Andhadhun","Music",2018,139,8.2,75351,NA,1.37
+"324",131,"K.G.F: Chapter 1","Action",2018,156,8.2,38874,NA,NA
+"325",131,"K.G.F: Chapter 1","Drama",2018,156,8.2,38874,NA,NA
+"326",132,"Green Book","Biography",2018,130,8.2,400809,69,85.08
+"327",132,"Green Book","Comedy",2018,130,8.2,400809,69,85.08
+"328",132,"Green Book","Drama",2018,130,8.2,400809,69,85.08
+"329",133,"Talvar","Crime",2015,132,8.2,31728,NA,0.34
+"330",133,"Talvar","Drama",2015,132,8.2,31728,NA,0.34
+"331",133,"Talvar","Mystery",2015,132,8.2,31728,NA,0.34
+"332",134,"Baahubali 2: The Conclusion","Action",2017,167,8.2,76818,NA,20.19
+"333",134,"Baahubali 2: The Conclusion","Drama",2017,167,8.2,76818,NA,20.19
+"334",135,"Klaus","Animation",2019,96,8.2,111496,65,NA
+"335",135,"Klaus","Adventure",2019,96,8.2,111496,65,NA
+"336",135,"Klaus","Comedy",2019,96,8.2,111496,65,NA
+"337",136,"Drishyam","Crime",2015,163,8.2,73006,NA,0.74
+"338",136,"Drishyam","Drama",2015,163,8.2,73006,NA,0.74
+"339",136,"Drishyam","Mystery",2015,163,8.2,73006,NA,0.74
+"340",137,"Queen","Adventure",2013,146,8.2,61331,NA,1.43
+"341",137,"Queen","Comedy",2013,146,8.2,61331,NA,1.43
+"342",137,"Queen","Drama",2013,146,8.2,61331,NA,1.43
+"343",138,"Mandariinid","Drama",2013,87,8.2,42273,73,0.14
+"344",138,"Mandariinid","War",2013,87,8.2,42273,73,0.14
+"345",139,"Bhaag Milkha Bhaag","Biography",2013,186,8.2,61845,NA,1.63
+"346",139,"Bhaag Milkha Bhaag","Drama",2013,186,8.2,61845,NA,1.63
+"347",139,"Bhaag Milkha Bhaag","Sport",2013,186,8.2,61845,NA,1.63
+"348",140,"Gangs of Wasseypur","Action",2012,321,8.2,84334,89,NA
+"349",140,"Gangs of Wasseypur","Comedy",2012,321,8.2,84334,89,NA
+"350",140,"Gangs of Wasseypur","Crime",2012,321,8.2,84334,89,NA
+"351",141,"Udaan","Drama",2010,134,8.2,42792,NA,0.01
+"352",142,"Paan Singh Tomar","Action",2012,135,8.2,33669,NA,0.04
+"353",142,"Paan Singh Tomar","Biography",2012,135,8.2,33669,NA,0.04
+"354",142,"Paan Singh Tomar","Crime",2012,135,8.2,33669,NA,0.04
+"355",143,"Zindagi Na Milegi Dobara","Comedy",2011,155,8.2,69153,NA,3.11
+"356",143,"Zindagi Na Milegi Dobara","Drama",2011,155,8.2,69153,NA,3.11
+"357",144,"El secreto de sus ojos","Drama",2009,129,8.2,196473,80,6.39
+"358",144,"El secreto de sus ojos","Mystery",2009,129,8.2,196473,80,6.39
+"359",144,"El secreto de sus ojos","Romance",2009,129,8.2,196473,80,6.39
+"360",145,"Warrior","Action",2011,140,8.2,441443,71,13.66
+"361",145,"Warrior","Drama",2011,140,8.2,441443,71,13.66
+"362",145,"Warrior","Sport",2011,140,8.2,441443,71,13.66
+"363",146,"Shutter Island","Mystery",2010,138,8.2,1155254,63,128.01
+"364",146,"Shutter Island","Thriller",2010,138,8.2,1155254,63,128.01
+"365",147,"Up","Animation",2009,96,8.2,950664,88,293
+"366",147,"Up","Adventure",2009,96,8.2,950664,88,293
+"367",147,"Up","Comedy",2009,96,8.2,950664,88,293
+"368",148,"Miracle in Cell No. 7","Drama",2019,132,8.2,38484,NA,NA
+"369",149,"The Wolf of Wall Street","Biography",2013,180,8.2,1218396,75,116.9
+"370",149,"The Wolf of Wall Street","Crime",2013,180,8.2,1218396,75,116.9
+"371",149,"The Wolf of Wall Street","Drama",2013,180,8.2,1218396,75,116.9
+"372",150,"Chak De! India","Drama",2007,153,8.2,74997,68,1.11
+"373",150,"Chak De! India","Family",2007,153,8.2,74997,68,1.11
+"374",150,"Chak De! India","Sport",2007,153,8.2,74997,68,1.11
+"375",151,"There Will Be Blood","Drama",2007,158,8.2,527606,93,40.22
+"376",152,"Pan's Labyrinth","Drama",2006,118,8.2,626370,98,37.63
+"377",152,"Pan's Labyrinth","Fantasy",2006,118,8.2,626370,98,37.63
+"378",152,"Pan's Labyrinth","War",2006,118,8.2,626370,98,37.63
+"379",153,"Toy Story 3","Animation",2010,103,8.2,767904,92,415
+"380",153,"Toy Story 3","Adventure",2010,103,8.2,767904,92,415
+"381",153,"Toy Story 3","Comedy",2010,103,8.2,767904,92,415
+"382",154,"V for Vendetta","Action",2005,132,8.2,1046090,62,70.51
+"383",154,"V for Vendetta","Drama",2005,132,8.2,1046090,62,70.51
+"384",154,"V for Vendetta","Sci-Fi",2005,132,8.2,1046090,62,70.51
+"385",155,"Black","Drama",2005,122,8.2,33612,NA,0.73
+"386",156,"Batman Begins","Action",2005,140,8.2,1328876,70,206.85
+"387",156,"Batman Begins","Adventure",2005,140,8.2,1328876,70,206.85
+"388",157,"Swades: We, the People","Drama",2004,210,8.2,84128,NA,1.22
+"389",158,"Der Untergang","Biography",2004,156,8.2,335453,82,5.51
+"390",158,"Der Untergang","Drama",2004,156,8.2,335453,82,5.51
+"391",158,"Der Untergang","History",2004,156,8.2,335453,82,5.51
+"392",159,"Hauru no ugoku shiro","Animation",2004,119,8.2,343437,80,4.71
+"393",159,"Hauru no ugoku shiro","Adventure",2004,119,8.2,343437,80,4.71
+"394",159,"Hauru no ugoku shiro","Family",2004,119,8.2,343437,80,4.71
+"395",160,"A Beautiful Mind","Biography",2001,135,8.2,862225,72,170.74
+"396",160,"A Beautiful Mind","Drama",2001,135,8.2,862225,72,170.74
+"397",161,"Hera Pheri","Action",2000,156,8.2,58177,NA,NA
+"398",161,"Hera Pheri","Comedy",2000,156,8.2,58177,NA,NA
+"399",161,"Hera Pheri","Crime",2000,156,8.2,58177,NA,NA
+"400",162,"Lock, Stock and Two Smoking Barrels","Action",1998,107,8.2,542747,66,3.9
+"401",162,"Lock, Stock and Two Smoking Barrels","Comedy",1998,107,8.2,542747,66,3.9
+"402",162,"Lock, Stock and Two Smoking Barrels","Crime",1998,107,8.2,542747,66,3.9
+"403",163,"L.A. Confidential","Crime",1997,138,8.2,539296,90,64.62
+"404",163,"L.A. Confidential","Drama",1997,138,8.2,539296,90,64.62
+"405",163,"L.A. Confidential","Mystery",1997,138,8.2,539296,90,64.62
+"406",164,"Eskiya","Crime",1996,128,8.2,65478,NA,NA
+"407",164,"Eskiya","Drama",1996,128,8.2,65478,NA,NA
+"408",164,"Eskiya","Thriller",1996,128,8.2,65478,NA,NA
+"409",165,"Heat","Crime",1995,170,8.2,588168,76,67.44
+"410",165,"Heat","Drama",1995,170,8.2,588168,76,67.44
+"411",165,"Heat","Thriller",1995,170,8.2,588168,76,67.44
+"412",166,"Casino","Crime",1995,178,8.2,474681,73,42.44
+"413",166,"Casino","Drama",1995,178,8.2,474681,73,42.44
+"414",167,"Andaz Apna Apna","Action",1994,160,8.2,49784,NA,NA
+"415",167,"Andaz Apna Apna","Comedy",1994,160,8.2,49784,NA,NA
+"416",167,"Andaz Apna Apna","Romance",1994,160,8.2,49784,NA,NA
+"417",168,"Unforgiven","Drama",1992,130,8.2,381442,85,101.16
+"418",168,"Unforgiven","Western",1992,130,8.2,381442,85,101.16
+"419",169,"Indiana Jones and the Last Crusade","Action",1989,127,8.2,700625,65,197.17
+"420",169,"Indiana Jones and the Last Crusade","Adventure",1989,127,8.2,700625,65,197.17
+"421",170,"Dom za vesanje","Comedy",1988,142,8.2,28038,NA,0.28
+"422",170,"Dom za vesanje","Crime",1988,142,8.2,28038,NA,0.28
+"423",170,"Dom za vesanje","Drama",1988,142,8.2,28038,NA,0.28
+"424",171,"Tonari no Totoro","Animation",1988,86,8.2,299070,86,1.11
+"425",171,"Tonari no Totoro","Family",1988,86,8.2,299070,86,1.11
+"426",171,"Tonari no Totoro","Fantasy",1988,86,8.2,299070,86,1.11
+"427",172,"Die Hard","Action",1988,132,8.2,802739,72,83.01
+"428",172,"Die Hard","Thriller",1988,132,8.2,802739,72,83.01
+"429",173,"Ran","Action",1985,162,8.2,115012,96,4.14
+"430",173,"Ran","Drama",1985,162,8.2,115012,96,4.14
+"431",173,"Ran","War",1985,162,8.2,115012,96,4.14
+"432",174,"Raging Bull","Biography",1980,129,8.2,326558,89,23.38
+"433",174,"Raging Bull","Drama",1980,129,8.2,326558,89,23.38
+"434",174,"Raging Bull","Sport",1980,129,8.2,326558,89,23.38
+"435",175,"Stalker","Drama",1979,162,8.2,119903,NA,0.23
+"436",175,"Stalker","Sci-Fi",1979,162,8.2,119903,NA,0.23
+"437",176,"Höstsonaten","Drama",1978,99,8.2,28562,NA,NA
+"438",176,"Höstsonaten","Music",1978,99,8.2,28562,NA,NA
+"439",177,"Taxi Driver","Crime",1976,114,8.2,738761,94,28.26
+"440",177,"Taxi Driver","Drama",1976,114,8.2,738761,94,28.26
+"441",178,"The Message","Biography",1976,177,8.2,44521,NA,NA
+"442",178,"The Message","Drama",1976,177,8.2,44521,NA,NA
+"443",178,"The Message","History",1976,177,8.2,44521,NA,NA
+"444",179,"Sholay","Action",1975,204,8.2,51890,NA,NA
+"445",179,"Sholay","Adventure",1975,204,8.2,51890,NA,NA
+"446",179,"Sholay","Comedy",1975,204,8.2,51890,NA,NA
+"447",180,"Monty Python and the Holy Grail","Adventure",1975,91,8.2,506562,91,1.23
+"448",180,"Monty Python and the Holy Grail","Comedy",1975,91,8.2,506562,91,1.23
+"449",180,"Monty Python and the Holy Grail","Fantasy",1975,91,8.2,506562,91,1.23
+"450",181,"Per qualche dollaro in più","Western",1965,132,8.2,236379,74,15
+"451",182,"The Great Escape","Adventure",1963,172,8.2,227907,86,12.1
+"452",182,"The Great Escape","Drama",1963,172,8.2,227907,86,12.1
+"453",182,"The Great Escape","History",1963,172,8.2,227907,86,12.1
+"454",183,"To Kill a Mockingbird","Crime",1962,129,8.2,297100,88,NA
+"455",183,"To Kill a Mockingbird","Drama",1962,129,8.2,297100,88,NA
+"456",184,"Yojinbo","Action",1961,110,8.2,113377,NA,NA
+"457",184,"Yojinbo","Drama",1961,110,8.2,113377,NA,NA
+"458",184,"Yojinbo","Thriller",1961,110,8.2,113377,NA,NA
+"459",185,"Judgment at Nuremberg","Drama",1961,179,8.2,70919,60,NA
+"460",185,"Judgment at Nuremberg","War",1961,179,8.2,70919,60,NA
+"461",186,"Some Like It Hot","Comedy",1959,121,8.2,247503,98,25
+"462",186,"Some Like It Hot","Music",1959,121,8.2,247503,98,25
+"463",186,"Some Like It Hot","Romance",1959,121,8.2,247503,98,25
+"464",187,"Smultronstället","Drama",1957,91,8.2,98496,88,NA
+"465",187,"Smultronstället","Romance",1957,91,8.2,98496,88,NA
+"466",188,"Det sjunde inseglet","Drama",1957,96,8.2,168547,88,NA
+"467",188,"Det sjunde inseglet","Fantasy",1957,96,8.2,168547,88,NA
+"468",188,"Det sjunde inseglet","History",1957,96,8.2,168547,88,NA
+"469",189,"Dial M for Murder","Crime",1954,105,8.2,161160,75,0.01
+"470",189,"Dial M for Murder","Thriller",1954,105,8.2,161160,75,0.01
+"471",190,"Tôkyô monogatari","Drama",1953,136,8.2,54761,NA,NA
+"472",191,"Rashomon","Crime",1950,88,8.2,155361,98,0.1
+"473",191,"Rashomon","Drama",1950,88,8.2,155361,98,0.1
+"474",191,"Rashomon","Mystery",1950,88,8.2,155361,98,0.1
+"475",192,"All About Eve","Drama",1950,138,8.2,122362,98,0.01
+"476",193,"The Treasure of the Sierra Madre","Adventure",1948,126,8.2,115957,98,5.01
+"477",193,"The Treasure of the Sierra Madre","Drama",1948,126,8.2,115957,98,5.01
+"478",193,"The Treasure of the Sierra Madre","Western",1948,126,8.2,115957,98,5.01
+"479",194,"To Be or Not to Be","Comedy",1942,99,8.2,31326,86,NA
+"480",194,"To Be or Not to Be","Romance",1942,99,8.2,31326,86,NA
+"481",194,"To Be or Not to Be","War",1942,99,8.2,31326,86,NA
+"482",195,"The Gold Rush","Adventure",1925,95,8.2,102987,NA,5.45
+"483",195,"The Gold Rush","Comedy",1925,95,8.2,102987,NA,5.45
+"484",195,"The Gold Rush","Drama",1925,95,8.2,102987,NA,5.45
+"485",196,"Sherlock Jr.","Action",1924,45,8.2,43434,NA,0.98
+"486",196,"Sherlock Jr.","Comedy",1924,45,8.2,43434,NA,0.98
+"487",196,"Sherlock Jr.","Romance",1924,45,8.2,43434,NA,0.98
+"488",197,"Portrait de la jeune fille en feu","Drama",2019,122,8.1,70123,95,3.76
+"489",197,"Portrait de la jeune fille en feu","Romance",2019,122,8.1,70123,95,3.76
+"490",198,"Pink(III)","Drama",2016,136,8.1,40139,NA,1.24
+"491",198,"Pink(III)","Thriller",2016,136,8.1,40139,NA,1.24
+"492",199,"Koe no katachi","Animation",2016,130,8.1,53141,78,NA
+"493",199,"Koe no katachi","Drama",2016,130,8.1,53141,78,NA
+"494",199,"Koe no katachi","Family",2016,130,8.1,53141,78,NA
+"495",200,"Three Billboards Outside Ebbing, Missouri","Comedy",2017,115,8.1,447072,88,54.51
+"496",200,"Three Billboards Outside Ebbing, Missouri","Crime",2017,115,8.1,447072,88,54.51
+"497",200,"Three Billboards Outside Ebbing, Missouri","Drama",2017,115,8.1,447072,88,54.51
+"498",201,"Contratiempo","Crime",2016,106,8.1,150835,NA,NA
+"499",201,"Contratiempo","Drama",2016,106,8.1,150835,NA,NA
+"500",201,"Contratiempo","Mystery",2016,106,8.1,150835,NA,NA
+"501",202,"Ah-ga-ssi","Drama",2016,145,8.1,119540,84,2.01
+"502",202,"Ah-ga-ssi","Romance",2016,145,8.1,119540,84,2.01
+"503",202,"Ah-ga-ssi","Thriller",2016,145,8.1,119540,84,2.01
+"504",203,"Mommy(I)","Drama",2014,139,8.1,51963,74,3.49
+"505",204,"Haider","Action",2014,160,8.1,50936,NA,0.9
+"506",204,"Haider","Crime",2014,160,8.1,50936,NA,0.9
+"507",204,"Haider","Drama",2014,160,8.1,50936,NA,0.9
+"508",205,"Logan","Action",2017,137,8.1,662951,77,226.28
+"509",205,"Logan","Drama",2017,137,8.1,662951,77,226.28
+"510",205,"Logan","Sci-Fi",2017,137,8.1,662951,77,226.28
+"511",206,"Room(I)","Drama",2015,118,8.1,380290,86,14.68
+"512",206,"Room(I)","Thriller",2015,118,8.1,380290,86,14.68
+"513",207,"Relatos salvajes","Comedy",2014,122,8.1,181326,77,3.11
+"514",207,"Relatos salvajes","Drama",2014,122,8.1,181326,77,3.11
+"515",207,"Relatos salvajes","Thriller",2014,122,8.1,181326,77,3.11
+"516",208,"Soul","Animation",2020,100,8.1,232693,83,NA
+"517",208,"Soul","Adventure",2020,100,8.1,232693,83,NA
+"518",208,"Soul","Comedy",2020,100,8.1,232693,83,NA
+"519",209,"Kis Uykusu","Drama",2014,196,8.1,47747,88,0.17
+"520",210,"PK","Comedy",2014,153,8.1,165875,NA,10.62
+"521",210,"PK","Drama",2014,153,8.1,165875,NA,10.62
+"522",210,"PK","Musical",2014,153,8.1,165875,NA,10.62
+"523",211,"OMG: Oh My God!","Comedy",2012,125,8.1,52526,NA,0.92
+"524",211,"OMG: Oh My God!","Drama",2012,125,8.1,52526,NA,0.92
+"525",211,"OMG: Oh My God!","Fantasy",2012,125,8.1,52526,NA,0.92
+"526",212,"The Grand Budapest Hotel","Adventure",2014,99,8.1,724010,88,59.1
+"527",212,"The Grand Budapest Hotel","Comedy",2014,99,8.1,724010,88,59.1
+"528",212,"The Grand Budapest Hotel","Crime",2014,99,8.1,724010,88,59.1
+"529",213,"Gone Girl","Drama",2014,149,8.1,879250,79,167.77
+"530",213,"Gone Girl","Mystery",2014,149,8.1,879250,79,167.77
+"531",213,"Gone Girl","Thriller",2014,149,8.1,879250,79,167.77
+"532",214,"Ôkami kodomo no Ame to Yuki","Animation",2012,117,8.1,39836,71,NA
+"533",214,"Ôkami kodomo no Ame to Yuki","Drama",2012,117,8.1,39836,71,NA
+"534",214,"Ôkami kodomo no Ame to Yuki","Fantasy",2012,117,8.1,39836,71,NA
+"535",215,"Hacksaw Ridge","Biography",2016,139,8.1,448241,71,67.21
+"536",215,"Hacksaw Ridge","Drama",2016,139,8.1,448241,71,67.21
+"537",215,"Hacksaw Ridge","History",2016,139,8.1,448241,71,67.21
+"538",216,"Inside Out(I)","Animation",2015,95,8.1,630674,94,356.46
+"539",216,"Inside Out(I)","Adventure",2015,95,8.1,630674,94,356.46
+"540",216,"Inside Out(I)","Comedy",2015,95,8.1,630674,94,356.46
+"541",217,"Barfi!","Comedy",2012,151,8.1,76635,NA,2.8
+"542",217,"Barfi!","Drama",2012,151,8.1,76635,NA,2.8
+"543",217,"Barfi!","Romance",2012,151,8.1,76635,NA,2.8
+"544",218,"12 Years a Slave","Biography",2013,134,8.1,650815,96,56.67
+"545",218,"12 Years a Slave","Drama",2013,134,8.1,650815,96,56.67
+"546",218,"12 Years a Slave","History",2013,134,8.1,650815,96,56.67
+"547",219,"Rush(I)","Action",2013,123,8.1,440751,74,26.95
+"548",219,"Rush(I)","Biography",2013,123,8.1,440751,74,26.95
+"549",219,"Rush(I)","Drama",2013,123,8.1,440751,74,26.95
+"550",220,"Ford v Ferrari","Action",2019,152,8.1,310144,81,117.62
+"551",220,"Ford v Ferrari","Biography",2019,152,8.1,310144,81,117.62
+"552",220,"Ford v Ferrari","Drama",2019,152,8.1,310144,81,117.62
+"553",221,"Spotlight(I)","Biography",2015,129,8.1,429322,93,45.06
+"554",221,"Spotlight(I)","Crime",2015,129,8.1,429322,93,45.06
+"555",221,"Spotlight(I)","Drama",2015,129,8.1,429322,93,45.06
+"556",222,"Song of the Sea","Animation",2014,93,8.1,53304,85,0.86
+"557",222,"Song of the Sea","Adventure",2014,93,8.1,53304,85,0.86
+"558",222,"Song of the Sea","Drama",2014,93,8.1,53304,85,0.86
+"559",223,"Kahaani","Mystery",2012,122,8.1,58456,NA,1.04
+"560",223,"Kahaani","Thriller",2012,122,8.1,58456,NA,1.04
+"561",224,"Prisoners","Crime",2013,153,8.1,614671,70,61
+"562",224,"Prisoners","Drama",2013,153,8.1,614671,70,61
+"563",224,"Prisoners","Mystery",2013,153,8.1,614671,70,61
+"564",225,"Mad Max: Fury Road","Action",2015,120,8.1,898964,90,154.06
+"565",225,"Mad Max: Fury Road","Adventure",2015,120,8.1,898964,90,154.06
+"566",225,"Mad Max: Fury Road","Sci-Fi",2015,120,8.1,898964,90,154.06
+"567",226,"A Wednesday","Action",2008,104,8.1,74481,NA,NA
+"568",226,"A Wednesday","Crime",2008,104,8.1,74481,NA,NA
+"569",226,"A Wednesday","Drama",2008,104,8.1,74481,NA,NA
+"570",227,"Zack Snyder's Justice League","Action",2021,242,8.1,276931,54,NA
+"571",227,"Zack Snyder's Justice League","Adventure",2021,242,8.1,276931,54,NA
+"572",227,"Zack Snyder's Justice League","Fantasy",2021,242,8.1,276931,54,NA
+"573",228,"Gran Torino","Drama",2008,116,8.1,728638,72,148.1
+"574",229,"Harry Potter and the Deathly Hallows: Part 2","Adventure",2011,130,8.1,779521,85,381.01
+"575",229,"Harry Potter and the Deathly Hallows: Part 2","Drama",2011,130,8.1,779521,85,381.01
+"576",229,"Harry Potter and the Deathly Hallows: Part 2","Fantasy",2011,130,8.1,779521,85,381.01
+"577",230,"Okuribito","Drama",2008,130,8.1,49188,68,1.5
+"578",230,"Okuribito","Music",2008,130,8.1,49188,68,1.5
+"579",231,"Hachi: A Dog's Tale","Biography",2009,93,8.1,258654,NA,NA
+"580",231,"Hachi: A Dog's Tale","Drama",2009,93,8.1,258654,NA,NA
+"581",231,"Hachi: A Dog's Tale","Family",2009,93,8.1,258654,NA,NA
+"582",232,"Mary and Max","Animation",2009,92,8.1,166680,NA,NA
+"583",232,"Mary and Max","Comedy",2009,92,8.1,166680,NA,NA
+"584",232,"Mary and Max","Drama",2009,92,8.1,166680,NA,NA
+"585",233,"How to Train Your Dragon","Animation",2010,98,8.1,676858,75,217.58
+"586",233,"How to Train Your Dragon","Action",2010,98,8.1,676858,75,217.58
+"587",233,"How to Train Your Dragon","Adventure",2010,98,8.1,676858,75,217.58
+"588",234,"Into the Wild","Adventure",2007,148,8.1,582142,73,18.35
+"589",234,"Into the Wild","Biography",2007,148,8.1,582142,73,18.35
+"590",234,"Into the Wild","Drama",2007,148,8.1,582142,73,18.35
+"591",235,"No Country for Old Men","Crime",2007,122,8.1,873801,91,74.28
+"592",235,"No Country for Old Men","Drama",2007,122,8.1,873801,91,74.28
+"593",235,"No Country for Old Men","Thriller",2007,122,8.1,873801,91,74.28
+"594",236,"Dare mo shiranai","Drama",2004,141,8.1,25398,88,0.68
+"595",237,"Rang De Basanti","Comedy",2006,167,8.1,113601,NA,2.2
+"596",237,"Rang De Basanti","Crime",2006,167,8.1,113601,NA,2.2
+"597",237,"Rang De Basanti","Drama",2006,167,8.1,113601,NA,2.2
+"598",238,"Million Dollar Baby","Drama",2004,132,8.1,644360,86,100.49
+"599",238,"Million Dollar Baby","Sport",2004,132,8.1,644360,86,100.49
+"600",239,"Hotel Rwanda","Biography",2004,121,8.1,337887,79,23.53
+"601",239,"Hotel Rwanda","Drama",2004,121,8.1,337887,79,23.53
+"602",239,"Hotel Rwanda","History",2004,121,8.1,337887,79,23.53
+"603",240,"Taegukgi hwinalrimyeo","Action",2004,140,8.1,38098,64,1.11
+"604",240,"Taegukgi hwinalrimyeo","Drama",2004,140,8.1,38098,64,1.11
+"605",240,"Taegukgi hwinalrimyeo","War",2004,140,8.1,38098,64,1.11
+"606",241,"Before Sunset","Drama",2004,80,8.1,240875,90,5.82
+"607",241,"Before Sunset","Romance",2004,80,8.1,240875,90,5.82
+"608",242,"Munna Bhai M.B.B.S.","Comedy",2003,156,8.1,74891,NA,NA
+"609",242,"Munna Bhai M.B.B.S.","Drama",2003,156,8.1,74891,NA,NA
+"610",243,"Salinui chueok","Crime",2003,131,8.1,146433,82,0.01
+"611",243,"Salinui chueok","Drama",2003,131,8.1,146433,82,0.01
+"612",243,"Salinui chueok","Mystery",2003,131,8.1,146433,82,0.01
+"613",244,"Dil Chahta Hai","Comedy",2001,183,8.1,67512,NA,0.3
+"614",244,"Dil Chahta Hai","Drama",2001,183,8.1,67512,NA,0.3
+"615",244,"Dil Chahta Hai","Romance",2001,183,8.1,67512,NA,0.3
+"616",245,"Kill Bill: Vol. 1","Action",2003,111,8.1,1016060,69,70.1
+"617",245,"Kill Bill: Vol. 1","Crime",2003,111,8.1,1016060,69,70.1
+"618",245,"Kill Bill: Vol. 1","Drama",2003,111,8.1,1016060,69,70.1
+"619",246,"Finding Nemo","Animation",2003,100,8.1,962407,90,380.84
+"620",246,"Finding Nemo","Adventure",2003,100,8.1,962407,90,380.84
+"621",246,"Finding Nemo","Comedy",2003,100,8.1,962407,90,380.84
+"622",247,"Catch Me If You Can","Biography",2002,141,8.1,852601,75,164.62
+"623",247,"Catch Me If You Can","Crime",2002,141,8.1,852601,75,164.62
+"624",247,"Catch Me If You Can","Drama",2002,141,8.1,852601,75,164.62
+"625",248,"Amores perros","Drama",2000,154,8.1,226615,83,5.38
+"626",248,"Amores perros","Thriller",2000,154,8.1,226615,83,5.38
+"627",249,"Monsters, Inc.","Animation",2001,92,8.1,828172,79,289.92
+"628",249,"Monsters, Inc.","Adventure",2001,92,8.1,828172,79,289.92
+"629",249,"Monsters, Inc.","Comedy",2001,92,8.1,828172,79,289.92
+"630",250,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni","Animation",1997,87,8.1,41251,NA,NA
+"631",250,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni","Action",1997,87,8.1,41251,NA,NA
+"632",250,"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni","Drama",1997,87,8.1,41251,NA,NA
+"633",251,"Lagaan: Once Upon a Time in India","Drama",2001,224,8.1,106234,84,0.07
+"634",251,"Lagaan: Once Upon a Time in India","Musical",2001,224,8.1,106234,84,0.07
+"635",251,"Lagaan: Once Upon a Time in India","Sport",2001,224,8.1,106234,84,0.07
+"636",252,"The Sixth Sense","Drama",1999,107,8.1,921947,64,293.51
+"637",252,"The Sixth Sense","Mystery",1999,107,8.1,921947,64,293.51
+"638",252,"The Sixth Sense","Thriller",1999,107,8.1,921947,64,293.51
+"639",253,"La leggenda del pianista sull'oceano","Drama",1998,169,8.1,59870,58,0.26
+"640",253,"La leggenda del pianista sull'oceano","Music",1998,169,8.1,59870,58,0.26
+"641",253,"La leggenda del pianista sull'oceano","Romance",1998,169,8.1,59870,58,0.26
+"642",254,"The Truman Show","Comedy",1998,103,8.1,958864,90,125.62
+"643",254,"The Truman Show","Drama",1998,103,8.1,958864,90,125.62
+"644",255,"Crna macka, beli macor","Comedy",1998,127,8.1,51453,73,0.35
+"645",255,"Crna macka, beli macor","Crime",1998,127,8.1,51453,73,0.35
+"646",255,"Crna macka, beli macor","Romance",1998,127,8.1,51453,73,0.35
+"647",256,"The Big Lebowski","Comedy",1998,117,8.1,743472,71,17.5
+"648",256,"The Big Lebowski","Crime",1998,117,8.1,743472,71,17.5
+"649",256,"The Big Lebowski","Sport",1998,117,8.1,743472,71,17.5
+"650",257,"Fa yeung nin wah","Drama",2000,98,8.1,129136,85,2.73
+"651",257,"Fa yeung nin wah","Romance",2000,98,8.1,129136,85,2.73
+"652",258,"Trainspotting","Drama",1996,93,8.1,642260,83,16.5
+"653",259,"Fargo","Crime",1996,98,8.1,627291,85,24.61
+"654",259,"Fargo","Drama",1996,98,8.1,627291,85,24.61
+"655",259,"Fargo","Thriller",1996,98,8.1,627291,85,24.61
+"656",260,"Underground","Comedy",1995,170,8.1,55772,NA,0.17
+"657",260,"Underground","Drama",1995,170,8.1,55772,NA,0.17
+"658",260,"Underground","Fantasy",1995,170,8.1,55772,NA,0.17
+"659",261,"La haine","Crime",1995,98,8.1,154239,NA,0.31
+"660",261,"La haine","Drama",1995,98,8.1,154239,NA,0.31
+"661",262,"Dilwale Dulhania Le Jayenge","Drama",1995,189,8.1,64267,NA,NA
+"662",262,"Dilwale Dulhania Le Jayenge","Romance",1995,189,8.1,64267,NA,NA
+"663",263,"Before Sunrise","Drama",1995,101,8.1,277995,77,5.54
+"664",263,"Before Sunrise","Romance",1995,101,8.1,277995,77,5.54
+"665",264,"Trois couleurs: Rouge","Drama",1994,99,8.1,92776,100,4.04
+"666",264,"Trois couleurs: Rouge","Mystery",1994,99,8.1,92776,100,4.04
+"667",264,"Trois couleurs: Rouge","Romance",1994,99,8.1,92776,100,4.04
+"668",265,"Chung Hing sam lam","Comedy",1994,102,8.1,66380,77,0.6
+"669",265,"Chung Hing sam lam","Crime",1994,102,8.1,66380,77,0.6
+"670",265,"Chung Hing sam lam","Drama",1994,102,8.1,66380,77,0.6
+"671",266,"Jurassic Park","Action",1993,127,8.1,881976,68,402.45
+"672",266,"Jurassic Park","Adventure",1993,127,8.1,881976,68,402.45
+"673",266,"Jurassic Park","Sci-Fi",1993,127,8.1,881976,68,402.45
+"674",267,"In the Name of the Father","Biography",1993,133,8.1,160774,84,25.01
+"675",267,"In the Name of the Father","Crime",1993,133,8.1,160774,84,25.01
+"676",267,"In the Name of the Father","Drama",1993,133,8.1,160774,84,25.01
+"677",268,"Ba wang bie ji","Drama",1993,171,8.1,25613,NA,5.22
+"678",268,"Ba wang bie ji","Music",1993,171,8.1,25613,NA,5.22
+"679",268,"Ba wang bie ji","Romance",1993,171,8.1,25613,NA,5.22
+"680",269,"Dà hóng denglong gaogao guà","Drama",1991,125,8.1,30119,NA,2.6
+"681",269,"Dà hóng denglong gaogao guà","History",1991,125,8.1,30119,NA,2.6
+"682",269,"Dà hóng denglong gaogao guà","Romance",1991,125,8.1,30119,NA,2.6
+"683",270,"Dead Poets Society","Comedy",1989,128,8.1,435474,79,95.86
+"684",270,"Dead Poets Society","Drama",1989,128,8.1,435474,79,95.86
+"685",271,"Stand by Me","Adventure",1986,89,8.1,368531,75,52.29
+"686",271,"Stand by Me","Drama",1986,89,8.1,368531,75,52.29
+"687",272,"Platoon","Drama",1986,120,8.1,386490,92,138.53
+"688",272,"Platoon","War",1986,120,8.1,386490,92,138.53
+"689",273,"Sacrifice","Drama",1986,149,8.1,25221,NA,0.3
+"690",274,"Paris, Texas","Drama",1984,145,8.1,94477,78,2.18
+"691",275,"Kaze no tani no Naushika","Animation",1984,117,8.1,154488,86,0.5
+"692",275,"Kaze no tani no Naushika","Adventure",1984,117,8.1,154488,86,0.5
+"693",275,"Kaze no tani no Naushika","Fantasy",1984,117,8.1,154488,86,0.5
+"694",276,"The Thing","Horror",1982,109,8.1,377400,57,13.78
+"695",276,"The Thing","Mystery",1982,109,8.1,377400,57,13.78
+"696",276,"The Thing","Sci-Fi",1982,109,8.1,377400,57,13.78
+"697",277,"Pink Floyd: The Wall","Drama",1982,95,8.1,76902,47,22.24
+"698",277,"Pink Floyd: The Wall","Fantasy",1982,95,8.1,76902,47,22.24
+"699",277,"Pink Floyd: The Wall","Music",1982,95,8.1,76902,47,22.24
+"700",278,"Fitzcarraldo","Adventure",1982,158,8.1,32188,NA,NA
+"701",278,"Fitzcarraldo","Drama",1982,158,8.1,32188,NA,NA
+"702",279,"Fanny och Alexander","Drama",1982,188,8.1,58408,100,4.97
+"703",280,"Blade Runner","Action",1982,117,8.1,703634,84,32.87
+"704",280,"Blade Runner","Sci-Fi",1982,117,8.1,703634,84,32.87
+"705",280,"Blade Runner","Thriller",1982,117,8.1,703634,84,32.87
+"706",281,"The Elephant Man","Biography",1980,124,8.1,223667,78,NA
+"707",281,"The Elephant Man","Drama",1980,124,8.1,223667,78,NA
+"708",282,"Life of Brian","Comedy",1979,94,8.1,372490,77,20.05
+"709",283,"The Deer Hunter","Drama",1978,183,8.1,316028,86,48.98
+"710",283,"The Deer Hunter","War",1978,183,8.1,316028,86,48.98
+"711",284,"Rocky","Drama",1976,120,8.1,526838,70,117.24
+"712",284,"Rocky","Sport",1976,120,8.1,526838,70,117.24
+"713",285,"Network","Drama",1976,121,8.1,147130,83,NA
+"714",286,"Barry Lyndon","Adventure",1975,185,8.1,152942,89,NA
+"715",286,"Barry Lyndon","Drama",1975,185,8.1,152942,89,NA
+"716",286,"Barry Lyndon","History",1975,185,8.1,152942,89,NA
+"717",287,"Zerkalo","Biography",1975,107,8.1,41109,80,0.18
+"718",287,"Zerkalo","Drama",1975,107,8.1,41109,80,0.18
+"719",288,"Chinatown","Drama",1974,130,8.1,299513,92,8.49
+"720",288,"Chinatown","Mystery",1974,130,8.1,299513,92,8.49
+"721",288,"Chinatown","Thriller",1974,130,8.1,299513,92,8.49
+"722",289,"Paper Moon","Comedy",1973,102,8.1,42899,77,30.93
+"723",289,"Paper Moon","Crime",1973,102,8.1,42899,77,30.93
+"724",289,"Paper Moon","Drama",1973,102,8.1,42899,77,30.93
+"725",290,"Viskningar och rop","Drama",1972,91,8.1,30893,NA,1.74
+"726",291,"Solaris","Drama",1972,167,8.1,82636,90,NA
+"727",291,"Solaris","Mystery",1972,167,8.1,82636,90,NA
+"728",291,"Solaris","Sci-Fi",1972,167,8.1,82636,90,NA
+"729",292,"Le samouraï","Crime",1967,105,8.1,46466,NA,0.04
+"730",292,"Le samouraï","Drama",1967,105,8.1,46466,NA,0.04
+"731",292,"Le samouraï","Mystery",1967,105,8.1,46466,NA,0.04
+"732",293,"Cool Hand Luke","Crime",1967,127,8.1,164403,92,16.22
+"733",293,"Cool Hand Luke","Drama",1967,127,8.1,164403,92,16.22
+"734",294,"Persona","Drama",1966,85,8.1,106077,86,NA
+"735",294,"Persona","Thriller",1966,85,8.1,106077,86,NA
+"736",295,"Andrei Rublev","Biography",1966,205,8.1,48351,NA,0.1
+"737",295,"Andrei Rublev","Drama",1966,205,8.1,48351,NA,0.1
+"738",295,"Andrei Rublev","History",1966,205,8.1,48351,NA,0.1
+"739",296,"La battaglia di Algeri","Drama",1966,121,8.1,54325,96,0.06
+"740",296,"La battaglia di Algeri","War",1966,121,8.1,54325,96,0.06
+"741",297,"El ángel exterminador","Drama",1962,95,8.1,30229,NA,NA
+"742",297,"El ángel exterminador","Fantasy",1962,95,8.1,30229,NA,NA
+"743",298,"What Ever Happened to Baby Jane?","Drama",1962,134,8.1,51047,75,4.05
+"744",298,"What Ever Happened to Baby Jane?","Horror",1962,134,8.1,51047,75,4.05
+"745",298,"What Ever Happened to Baby Jane?","Thriller",1962,134,8.1,51047,75,4.05
+"746",299,"Sanjuro","Action",1962,96,8.1,33802,NA,NA
+"747",299,"Sanjuro","Comedy",1962,96,8.1,33802,NA,NA
+"748",299,"Sanjuro","Crime",1962,96,8.1,33802,NA,NA
+"749",300,"The Man Who Shot Liberty Valance","Drama",1962,123,8.1,69911,94,NA
+"750",300,"The Man Who Shot Liberty Valance","Western",1962,123,8.1,69911,94,NA
+"751",301,"Ivanovo detstvo","Drama",1962,95,8.1,32571,NA,NA
+"752",301,"Ivanovo detstvo","War",1962,95,8.1,32571,NA,NA
+"753",302,"Jungfrukällan","Drama",1960,89,8.1,27137,NA,1.53
+"754",303,"Inherit the Wind","Biography",1960,128,8.1,27770,75,NA
+"755",303,"Inherit the Wind","Drama",1960,128,8.1,27770,75,NA
+"756",303,"Inherit the Wind","History",1960,128,8.1,27770,75,NA
+"757",304,"Les quatre cents coups","Crime",1959,99,8.1,107627,NA,NA
+"758",304,"Les quatre cents coups","Drama",1959,99,8.1,107627,NA,NA
+"759",305,"Ben-Hur","Adventure",1959,212,8.1,222551,90,74.7
+"760",305,"Ben-Hur","Drama",1959,212,8.1,222551,90,74.7
+"761",305,"Ben-Hur","History",1959,212,8.1,222551,90,74.7
+"762",306,"Kakushi-toride no san-akunin","Adventure",1958,139,8.1,35606,NA,NA
+"763",306,"Kakushi-toride no san-akunin","Drama",1958,139,8.1,35606,NA,NA
+"764",307,"Le notti di Cabiria","Drama",1957,110,8.1,43660,NA,0.75
+"765",308,"Kumonosu-jo","Drama",1957,110,8.1,47587,NA,NA
+"766",308,"Kumonosu-jo","History",1957,110,8.1,47587,NA,NA
+"767",309,"The Bridge on the River Kwai","Adventure",1957,161,8.1,206283,87,44.91
+"768",309,"The Bridge on the River Kwai","Drama",1957,161,8.1,206283,87,44.91
+"769",309,"The Bridge on the River Kwai","War",1957,161,8.1,206283,87,44.91
+"770",310,"Du rififi chez les hommes","Crime",1955,118,8.1,30290,97,0.06
+"771",310,"Du rififi chez les hommes","Drama",1955,118,8.1,30290,97,0.06
+"772",310,"Du rififi chez les hommes","Thriller",1955,118,8.1,30290,97,0.06
+"773",311,"On the Waterfront","Crime",1954,108,8.1,144268,91,9.6
+"774",311,"On the Waterfront","Drama",1954,108,8.1,144268,91,9.6
+"775",311,"On the Waterfront","Thriller",1954,108,8.1,144268,91,9.6
+"776",312,"Le salaire de la peur","Adventure",1953,131,8.1,55736,85,NA
+"777",312,"Le salaire de la peur","Drama",1953,131,8.1,55736,85,NA
+"778",312,"Le salaire de la peur","Thriller",1953,131,8.1,55736,85,NA
+"779",313,"Ace in the Hole","Drama",1951,111,8.1,32233,72,3.97
+"780",313,"Ace in the Hole","Film-Noir",1951,111,8.1,32233,72,3.97
+"781",314,"White Heat","Action",1949,114,8.1,30243,NA,NA
+"782",314,"White Heat","Crime",1949,114,8.1,30243,NA,NA
+"783",314,"White Heat","Drama",1949,114,8.1,30243,NA,NA
+"784",315,"The Third Man","Film-Noir",1949,104,8.1,161121,97,0.45
+"785",315,"The Third Man","Mystery",1949,104,8.1,161121,97,0.45
+"786",315,"The Third Man","Thriller",1949,104,8.1,161121,97,0.45
+"787",316,"The Red Shoes","Drama",1948,135,8.1,31583,NA,10.9
+"788",316,"The Red Shoes","Music",1948,135,8.1,31583,NA,10.9
+"789",316,"The Red Shoes","Romance",1948,135,8.1,31583,NA,10.9
+"790",317,"The Shop Around the Corner","Comedy",1940,99,8.1,28948,96,0.2
+"791",317,"The Shop Around the Corner","Drama",1940,99,8.1,28948,96,0.2
+"792",317,"The Shop Around the Corner","Romance",1940,99,8.1,28948,96,0.2
+"793",318,"Rebecca","Drama",1940,130,8.1,126065,86,4.36
+"794",318,"Rebecca","Mystery",1940,130,8.1,126065,86,4.36
+"795",318,"Rebecca","Romance",1940,130,8.1,126065,86,4.36
+"796",319,"Mr. Smith Goes to Washington","Comedy",1939,129,8.1,108451,73,9.6
+"797",319,"Mr. Smith Goes to Washington","Drama",1939,129,8.1,108451,73,9.6
+"798",320,"Gone with the Wind","Drama",1939,238,8.1,293981,97,198.68
+"799",320,"Gone with the Wind","History",1939,238,8.1,293981,97,198.68
+"800",320,"Gone with the Wind","Romance",1939,238,8.1,293981,97,198.68
+"801",321,"La Grande Illusion","Drama",1937,113,8.1,34274,NA,0.17
+"802",321,"La Grande Illusion","War",1937,113,8.1,34274,NA,0.17
+"803",322,"It Happened One Night","Comedy",1934,105,8.1,95754,87,4.36
+"804",322,"It Happened One Night","Romance",1934,105,8.1,95754,87,4.36
+"805",323,"La passion de Jeanne d'Arc","Biography",1928,110,8.1,48981,NA,0.02
+"806",323,"La passion de Jeanne d'Arc","Drama",1928,110,8.1,48981,NA,0.02
+"807",323,"La passion de Jeanne d'Arc","History",1928,110,8.1,48981,NA,0.02
+"808",324,"The Circus","Comedy",1928,72,8.1,30849,90,NA
+"809",324,"The Circus","Romance",1928,72,8.1,30849,90,NA
+"810",325,"Sunrise: A Song of Two Humans","Drama",1927,94,8.1,47379,NA,0.54
+"811",325,"Sunrise: A Song of Two Humans","Romance",1927,94,8.1,47379,NA,0.54
+"812",326,"The General","Action",1926,67,8.1,82570,NA,1.03
+"813",326,"The General","Adventure",1926,67,8.1,82570,NA,1.03
+"814",326,"The General","Comedy",1926,67,8.1,82570,NA,1.03
+"815",327,"Das Cabinet des Dr. Caligari","Fantasy",1920,76,8.1,58333,NA,NA
+"816",327,"Das Cabinet des Dr. Caligari","Horror",1920,76,8.1,58333,NA,NA
+"817",327,"Das Cabinet des Dr. Caligari","Mystery",1920,76,8.1,58333,NA,NA
+"818",328,"Badhaai ho","Comedy",2018,124,8,28746,NA,NA
+"819",328,"Badhaai ho","Drama",2018,124,8,28746,NA,NA
+"820",329,"Togo","Adventure",2019,113,8,40130,69,NA
+"821",329,"Togo","Biography",2019,113,8,40130,69,NA
+"822",329,"Togo","Drama",2019,113,8,40130,69,NA
+"823",330,"Airlift","Drama",2016,130,8,53304,NA,NA
+"824",330,"Airlift","History",2016,130,8,53304,NA,NA
+"825",331,"Bajrangi Bhaijaan","Action",2015,163,8,73516,NA,8.18
+"826",331,"Bajrangi Bhaijaan","Adventure",2015,163,8,73516,NA,8.18
+"827",331,"Bajrangi Bhaijaan","Comedy",2015,163,8,73516,NA,8.18
+"828",332,"Baby(I)","Action",2015,159,8,53297,NA,NA
+"829",332,"Baby(I)","Thriller",2015,159,8,53297,NA,NA
+"830",333,"La La Land","Comedy",2016,128,8,517948,94,151.1
+"831",333,"La La Land","Drama",2016,128,8,517948,94,151.1
+"832",333,"La La Land","Music",2016,128,8,517948,94,151.1
+"833",334,"Lion","Biography",2016,118,8,218601,69,51.74
+"834",334,"Lion","Drama",2016,118,8,218601,69,51.74
+"835",335,"The Martian","Adventure",2015,144,8,773283,80,228.43
+"836",335,"The Martian","Drama",2015,144,8,773283,80,228.43
+"837",335,"The Martian","Sci-Fi",2015,144,8,773283,80,228.43
+"838",336,"Zootopia","Animation",2016,108,8,442561,78,341.27
+"839",336,"Zootopia","Adventure",2016,108,8,442561,78,341.27
+"840",336,"Zootopia","Comedy",2016,108,8,442561,78,341.27
+"841",337,"Bãhubali: The Beginning","Action",2015,129,8,104539,NA,6.74
+"842",337,"Bãhubali: The Beginning","Drama",2015,129,8,104539,NA,6.74
+"843",338,"Kaguyahime no monogatari","Animation",2013,137,8,40231,89,1.51
+"844",338,"Kaguyahime no monogatari","Adventure",2013,137,8,40231,89,1.51
+"845",338,"Kaguyahime no monogatari","Drama",2013,137,8,40231,89,1.51
+"846",339,"Wonder(I)","Drama",2017,113,8,146437,66,132.42
+"847",339,"Wonder(I)","Family",2017,113,8,146437,66,132.42
+"848",340,"Gully Boy","Drama",2019,154,8,32914,65,5.57
+"849",340,"Gully Boy","Music",2019,154,8,32914,65,5.57
+"850",340,"Gully Boy","Romance",2019,154,8,32914,65,5.57
+"851",341,"Special Chabbis","Crime",2013,144,8,51633,NA,1.08
+"852",341,"Special Chabbis","Drama",2013,144,8,51633,NA,1.08
+"853",341,"Special Chabbis","Thriller",2013,144,8,51633,NA,1.08
+"854",342,"Short Term 12","Drama",2013,96,8,83088,82,1.01
+"855",343,"Serbuan maut 2: Berandal","Action",2014,150,8,115648,71,2.63
+"856",343,"Serbuan maut 2: Berandal","Crime",2014,150,8,115648,71,2.63
+"857",343,"Serbuan maut 2: Berandal","Thriller",2014,150,8,115648,71,2.63
+"858",344,"The Imitation Game","Biography",2014,114,8,697185,73,91.13
+"859",344,"The Imitation Game","Drama",2014,114,8,697185,73,91.13
+"860",344,"The Imitation Game","Thriller",2014,114,8,697185,73,91.13
+"861",345,"Guardians of the Galaxy","Action",2014,121,8,1060958,76,333.18
+"862",345,"Guardians of the Galaxy","Adventure",2014,121,8,1060958,76,333.18
+"863",345,"Guardians of the Galaxy","Comedy",2014,121,8,1060958,76,333.18
+"864",346,"Blade Runner 2049","Action",2017,164,8,476265,81,92.05
+"865",346,"Blade Runner 2049","Drama",2017,164,8,476265,81,92.05
+"866",346,"Blade Runner 2049","Mystery",2017,164,8,476265,81,92.05
+"867",347,"Her","Drama",2013,126,8,551536,90,25.57
+"868",347,"Her","Romance",2013,126,8,551536,90,25.57
+"869",347,"Her","Sci-Fi",2013,126,8,551536,90,25.57
+"870",348,"Bohemian Rhapsody","Biography",2018,134,8,465974,49,216.43
+"871",348,"Bohemian Rhapsody","Drama",2018,134,8,465974,49,216.43
+"872",348,"Bohemian Rhapsody","Music",2018,134,8,465974,49,216.43
+"873",349,"The Revenant","Action",2015,156,8,719232,76,183.64
+"874",349,"The Revenant","Adventure",2015,156,8,719232,76,183.64
+"875",349,"The Revenant","Drama",2015,156,8,719232,76,183.64
+"876",350,"The Perks of Being a Wallflower","Drama",2012,103,8,469654,67,17.74
+"877",350,"The Perks of Being a Wallflower","Romance",2012,103,8,469654,67,17.74
+"878",351,"Tropa de Elite 2: O Inimigo Agora é Outro","Action",2010,115,8,79908,71,0.1
+"879",351,"Tropa de Elite 2: O Inimigo Agora é Outro","Crime",2010,115,8,79908,71,0.1
+"880",351,"Tropa de Elite 2: O Inimigo Agora é Outro","Drama",2010,115,8,79908,71,0.1
+"881",352,"The King's Speech","Biography",2010,118,8,646853,88,138.8
+"882",352,"The King's Speech","Drama",2010,118,8,646853,88,138.8
+"883",352,"The King's Speech","History",2010,118,8,646853,88,138.8
+"884",353,"The Help","Drama",2011,146,8,433426,62,169.71
+"885",354,"Deadpool","Action",2016,108,8,918749,65,363.07
+"886",354,"Deadpool","Adventure",2016,108,8,918749,65,363.07
+"887",354,"Deadpool","Comedy",2016,108,8,918749,65,363.07
+"888",355,"Darbareye Elly","Drama",2009,119,8,47188,87,0.11
+"889",355,"Darbareye Elly","Mystery",2009,119,8,47188,87,0.11
+"890",356,"Dev.D","Drama",2009,144,8,29034,NA,0.01
+"891",356,"Dev.D","Romance",2009,144,8,29034,NA,0.01
+"892",357,"Yip Man","Action",2008,106,8,213263,59,NA
+"893",357,"Yip Man","Biography",2008,106,8,213263,59,NA
+"894",357,"Yip Man","Drama",2008,106,8,213263,59,NA
+"895",358,"My Name Is Khan","Drama",2010,165,8,99652,50,4.02
+"896",359,"Nefes: Vatan Sagolsun","Action",2009,128,8,32194,NA,NA
+"897",359,"Nefes: Vatan Sagolsun","Drama",2009,128,8,32194,NA,NA
+"898",359,"Nefes: Vatan Sagolsun","Thriller",2009,128,8,32194,NA,NA
+"899",360,"Slumdog Millionaire","Drama",2008,120,8,806581,84,141.32
+"900",360,"Slumdog Millionaire","Romance",2008,120,8,806581,84,141.32
+"901",361,"Black Swan","Drama",2010,108,8,708736,79,106.95
+"902",361,"Black Swan","Thriller",2010,108,8,708736,79,106.95
+"903",362,"Tropa de Elite","Action",2007,115,8,99104,33,0.01
+"904",362,"Tropa de Elite","Crime",2007,115,8,99104,33,0.01
+"905",362,"Tropa de Elite","Drama",2007,115,8,99104,33,0.01
+"906",363,"The Avengers","Action",2012,143,8,1278564,69,623.28
+"907",363,"The Avengers","Adventure",2012,143,8,1278564,69,623.28
+"908",363,"The Avengers","Sci-Fi",2012,143,8,1278564,69,623.28
+"909",364,"Persepolis","Animation",2007,96,8,89758,90,4.45
+"910",364,"Persepolis","Biography",2007,96,8,89758,90,4.45
+"911",364,"Persepolis","Drama",2007,96,8,89758,90,4.45
+"912",365,"Dallas Buyers Club","Biography",2013,117,8,449707,80,27.3
+"913",365,"Dallas Buyers Club","Drama",2013,117,8,449707,80,27.3
+"914",366,"Lage Raho Munna Bhai","Comedy",2006,144,8,43623,NA,2.22
+"915",366,"Lage Raho Munna Bhai","Drama",2006,144,8,43623,NA,2.22
+"916",366,"Lage Raho Munna Bhai","Romance",2006,144,8,43623,NA,2.22
+"917",367,"The Pursuit of Happyness","Biography",2006,117,8,457270,64,163.57
+"918",367,"The Pursuit of Happyness","Drama",2006,117,8,457270,64,163.57
+"919",368,"Blood Diamond","Adventure",2006,143,8,506145,64,57.37
+"920",368,"Blood Diamond","Drama",2006,143,8,506145,64,57.37
+"921",368,"Blood Diamond","Thriller",2006,143,8,506145,64,57.37
+"922",369,"The Bourne Ultimatum","Action",2007,115,8,608742,85,227.47
+"923",369,"The Bourne Ultimatum","Mystery",2007,115,8,608742,85,227.47
+"924",369,"The Bourne Ultimatum","Thriller",2007,115,8,608742,85,227.47
+"925",370,"Bin-jip","Crime",2004,88,8,51556,72,0.24
+"926",370,"Bin-jip","Drama",2004,88,8,51556,72,0.24
+"927",370,"Bin-jip","Romance",2004,88,8,51556,72,0.24
+"928",371,"Sin City","Crime",2005,124,8,742013,74,74.1
+"929",371,"Sin City","Thriller",2005,124,8,742013,74,74.1
+"930",372,"Le scaphandre et le papillon","Biography",2007,112,8,104061,92,5.99
+"931",372,"Le scaphandre et le papillon","Drama",2007,112,8,104061,92,5.99
+"932",373,"G.O.R.A.","Adventure",2004,127,8,58081,NA,NA
+"933",373,"G.O.R.A.","Comedy",2004,127,8,58081,NA,NA
+"934",373,"G.O.R.A.","Sci-Fi",2004,127,8,58081,NA,NA
+"935",374,"Ratatouille","Animation",2007,111,8,652068,96,206.45
+"936",374,"Ratatouille","Adventure",2007,111,8,652068,96,206.45
+"937",374,"Ratatouille","Comedy",2007,111,8,652068,96,206.45
+"938",375,"Casino Royale","Action",2006,144,8,588293,80,167.45
+"939",375,"Casino Royale","Adventure",2006,144,8,588293,80,167.45
+"940",375,"Casino Royale","Thriller",2006,144,8,588293,80,167.45
+"941",376,"Kill Bill: Vol. 2","Action",2004,137,8,693545,83,66.21
+"942",376,"Kill Bill: Vol. 2","Crime",2004,137,8,693545,83,66.21
+"943",376,"Kill Bill: Vol. 2","Thriller",2004,137,8,693545,83,66.21
+"944",377,"Vozvrashchenie","Drama",2003,110,8,43162,82,0.5
+"945",378,"Bom yeoreum gaeul gyeoul geurigo bom","Drama",2003,103,8,78436,85,2.38
+"946",378,"Bom yeoreum gaeul gyeoul geurigo bom","Romance",2003,103,8,78436,85,2.38
+"947",379,"Mar adentro(I)","Biography",2004,126,8,78341,74,2.09
+"948",379,"Mar adentro(I)","Drama",2004,126,8,78341,74,2.09
+"949",380,"Cinderella Man","Biography",2005,144,8,177981,69,61.65
+"950",380,"Cinderella Man","Drama",2005,144,8,177981,69,61.65
+"951",380,"Cinderella Man","History",2005,144,8,177981,69,61.65
+"952",381,"Mou gaan dou","Action",2002,101,8,118811,75,0.17
+"953",381,"Mou gaan dou","Crime",2002,101,8,118811,75,0.17
+"954",381,"Mou gaan dou","Drama",2002,101,8,118811,75,0.17
+"955",382,"Pirates of the Caribbean: The Curse of the Black Pearl","Action",2003,143,8,1024770,63,305.41
+"956",382,"Pirates of the Caribbean: The Curse of the Black Pearl","Adventure",2003,143,8,1024770,63,305.41
+"957",382,"Pirates of the Caribbean: The Curse of the Black Pearl","Fantasy",2003,143,8,1024770,63,305.41
+"958",383,"Big Fish","Adventure",2003,125,8,419155,58,66.26
+"959",383,"Big Fish","Drama",2003,125,8,419155,58,66.26
+"960",383,"Big Fish","Fantasy",2003,125,8,419155,58,66.26
+"961",384,"The Incredibles","Animation",2004,115,8,665525,90,261.44
+"962",384,"The Incredibles","Action",2004,115,8,665525,90,261.44
+"963",384,"The Incredibles","Adventure",2004,115,8,665525,90,261.44
+"964",385,"Yeopgijeogin geunyeo","Comedy",2001,137,8,45795,NA,NA
+"965",385,"Yeopgijeogin geunyeo","Drama",2001,137,8,45795,NA,NA
+"966",385,"Yeopgijeogin geunyeo","Romance",2001,137,8,45795,NA,NA
+"967",386,"Dogville","Crime",2003,178,8,139601,60,1.53
+"968",386,"Dogville","Drama",2003,178,8,139601,60,1.53
+"969",387,"Vizontele","Comedy",2001,110,8,34217,NA,NA
+"970",387,"Vizontele","Drama",2001,110,8,34217,NA,NA
+"971",388,"Donnie Darko","Drama",2001,113,8,748606,88,1.48
+"972",388,"Donnie Darko","Mystery",2001,113,8,748606,88,1.48
+"973",388,"Donnie Darko","Sci-Fi",2001,113,8,748606,88,1.48
+"974",389,"Magnolia","Drama",1999,188,8,292705,77,22.46
+"975",390,"Dancer in the Dark","Crime",2000,140,8,103664,61,4.18
+"976",390,"Dancer in the Dark","Drama",2000,140,8,103664,61,4.18
+"977",390,"Dancer in the Dark","Musical",2000,140,8,103664,61,4.18
+"978",391,"The Straight Story","Biography",1999,112,8,83264,86,6.2
+"979",391,"The Straight Story","Drama",1999,112,8,83264,86,6.2
+"980",392,"Pâfekuto burû","Animation",1997,81,8,60809,NA,0.78
+"981",392,"Pâfekuto burû","Crime",1997,81,8,60809,NA,0.78
+"982",392,"Pâfekuto burû","Mystery",1997,81,8,60809,NA,0.78
+"983",393,"Festen","Drama",1998,105,8,79790,82,1.65
+"984",394,"Central do Brasil","Drama",1998,110,8,37018,80,5.6
+"985",395,"The Iron Giant","Animation",1999,86,8,174755,85,23.16
+"986",395,"The Iron Giant","Action",1999,86,8,174755,85,23.16
+"987",395,"The Iron Giant","Adventure",1999,86,8,174755,85,23.16
+"988",396,"Knockin' on Heaven's Door","Action",1997,87,8,28125,NA,0
+"989",396,"Knockin' on Heaven's Door","Crime",1997,87,8,28125,NA,0
+"990",396,"Knockin' on Heaven's Door","Comedy",1997,87,8,28125,NA,0
+"991",397,"Sling Blade","Drama",1996,135,8,88032,84,24.48
+"992",398,"Secrets & Lies","Comedy",1996,136,8,38518,91,13.42
+"993",398,"Secrets & Lies","Drama",1996,136,8,38518,91,13.42
+"994",399,"Twelve Monkeys","Mystery",1995,129,8,584817,74,57.14
+"995",399,"Twelve Monkeys","Sci-Fi",1995,129,8,584817,74,57.14
+"996",399,"Twelve Monkeys","Thriller",1995,129,8,584817,74,57.14
+"997",400,"Kôkaku Kidôtai","Animation",1995,83,8,131587,76,0.52
+"998",400,"Kôkaku Kidôtai","Action",1995,83,8,131587,76,0.52
+"999",400,"Kôkaku Kidôtai","Crime",1995,83,8,131587,76,0.52
+"1000",401,"The Nightmare Before Christmas","Animation",1993,76,8,303265,82,75.08
+"1001",401,"The Nightmare Before Christmas","Family",1993,76,8,303265,82,75.08
+"1002",401,"The Nightmare Before Christmas","Fantasy",1993,76,8,303265,82,75.08
+"1003",402,"Groundhog Day","Comedy",1993,101,8,585509,72,70.91
+"1004",402,"Groundhog Day","Fantasy",1993,101,8,585509,72,70.91
+"1005",402,"Groundhog Day","Romance",1993,101,8,585509,72,70.91
+"1006",403,"Bound by Honor","Crime",1993,180,8,29192,47,4.5
+"1007",403,"Bound by Honor","Drama",1993,180,8,29192,47,4.5
+"1008",404,"Scent of a Woman","Drama",1992,156,8,269639,59,63.9
+"1009",405,"Aladdin","Animation",1992,90,8,378414,86,217.35
+"1010",405,"Aladdin","Adventure",1992,90,8,378414,86,217.35
+"1011",405,"Aladdin","Comedy",1992,90,8,378414,86,217.35
+"1012",406,"JFK","Drama",1991,189,8,144199,72,70.41
+"1013",406,"JFK","History",1991,189,8,144199,72,70.41
+"1014",406,"JFK","Thriller",1991,189,8,144199,72,70.41
+"1015",407,"Beauty and the Beast","Animation",1991,84,8,421014,95,218.97
+"1016",407,"Beauty and the Beast","Family",1991,84,8,421014,95,218.97
+"1017",407,"Beauty and the Beast","Fantasy",1991,84,8,421014,95,218.97
+"1018",408,"Dances with Wolves","Adventure",1990,181,8,244597,72,184.21
+"1019",408,"Dances with Wolves","Drama",1990,181,8,244597,72,184.21
+"1020",408,"Dances with Wolves","Western",1990,181,8,244597,72,184.21
+"1021",409,"Do the Right Thing","Comedy",1989,120,8,92062,93,27.55
+"1022",409,"Do the Right Thing","Drama",1989,120,8,92062,93,27.55
+"1023",410,"Rain Man","Drama",1988,133,8,479336,65,178.8
+"1024",411,"Akira","Animation",1988,124,8,168021,NA,0.55
+"1025",411,"Akira","Action",1988,124,8,168021,NA,0.55
+"1026",411,"Akira","Sci-Fi",1988,124,8,168021,NA,0.55
+"1027",412,"The Princess Bride","Adventure",1987,98,8,397833,77,30.86
+"1028",412,"The Princess Bride","Family",1987,98,8,397833,77,30.86
+"1029",412,"The Princess Bride","Fantasy",1987,98,8,397833,77,30.86
+"1030",413,"Der Himmel über Berlin","Drama",1987,128,8,65965,79,3.33
+"1031",413,"Der Himmel über Berlin","Fantasy",1987,128,8,65965,79,3.33
+"1032",413,"Der Himmel über Berlin","Romance",1987,128,8,65965,79,3.33
+"1033",414,"Au revoir les enfants","Drama",1987,104,8,31697,88,4.54
+"1034",414,"Au revoir les enfants","War",1987,104,8,31697,88,4.54
+"1035",415,"Tenkû no shiro Rapyuta","Animation",1986,125,8,152823,78,NA
+"1036",415,"Tenkû no shiro Rapyuta","Adventure",1986,125,8,152823,78,NA
+"1037",415,"Tenkû no shiro Rapyuta","Drama",1986,125,8,152823,78,NA
+"1038",416,"The Terminator","Action",1984,107,8,806050,84,38.4
+"1039",416,"The Terminator","Sci-Fi",1984,107,8,806050,84,38.4
+"1040",417,"Gandhi","Biography",1982,191,8,219445,79,52.77
+"1041",417,"Gandhi","Drama",1982,191,8,219445,79,52.77
+"1042",417,"Gandhi","History",1982,191,8,219445,79,52.77
+"1043",418,"Kagemusha","Drama",1980,180,8,32718,84,NA
+"1044",418,"Kagemusha","History",1980,180,8,32718,84,NA
+"1045",418,"Kagemusha","War",1980,180,8,32718,84,NA
+"1046",419,"Being There","Comedy",1979,130,8,66727,83,30.18
+"1047",419,"Being There","Drama",1979,130,8,66727,83,30.18
+"1048",420,"Annie Hall","Comedy",1977,93,8,254042,92,39.2
+"1049",420,"Annie Hall","Romance",1977,93,8,254042,92,39.2
+"1050",421,"Jaws","Adventure",1975,124,8,548758,87,260
+"1051",421,"Jaws","Thriller",1975,124,8,548758,87,260
+"1052",422,"Dog Day Afternoon","Biography",1975,125,8,238971,86,50
+"1053",422,"Dog Day Afternoon","Crime",1975,125,8,238971,86,50
+"1054",422,"Dog Day Afternoon","Drama",1975,125,8,238971,86,50
+"1055",423,"Young Frankenstein","Comedy",1974,106,8,145100,80,86.3
+"1056",424,"Papillon","Biography",1973,151,8,123172,58,53.27
+"1057",424,"Papillon","Crime",1973,151,8,123172,58,53.27
+"1058",424,"Papillon","Drama",1973,151,8,123172,58,53.27
+"1059",425,"The Exorcist","Horror",1973,122,8,366032,81,232.91
+"1060",426,"Sleuth","Mystery",1972,138,8,45179,NA,4.08
+"1061",426,"Sleuth","Thriller",1972,138,8,45179,NA,4.08
+"1062",427,"The Last Picture Show","Drama",1971,118,8,43410,93,29.13
+"1063",427,"The Last Picture Show","Romance",1971,118,8,43410,93,29.13
+"1064",428,"Fiddler on the Roof","Drama",1971,181,8,40097,67,80.5
+"1065",428,"Fiddler on the Roof","Family",1971,181,8,40097,67,80.5
+"1066",428,"Fiddler on the Roof","Musical",1971,181,8,40097,67,80.5
+"1067",429,"Il conformista","Drama",1970,113,8,27751,100,0.54
+"1068",430,"Butch Cassidy and the Sundance Kid","Biography",1969,110,8,203684,66,102.31
+"1069",430,"Butch Cassidy and the Sundance Kid","Crime",1969,110,8,203684,66,102.31
+"1070",430,"Butch Cassidy and the Sundance Kid","Drama",1969,110,8,203684,66,102.31
+"1071",431,"Rosemary's Baby","Drama",1968,137,8,197487,96,NA
+"1072",431,"Rosemary's Baby","Horror",1968,137,8,197487,96,NA
+"1073",432,"Planet of the Apes","Adventure",1968,112,8,166841,79,33.4
+"1074",432,"Planet of the Apes","Sci-Fi",1968,112,8,166841,79,33.4
+"1075",433,"The Graduate","Comedy",1967,106,8,256371,83,104.95
+"1076",433,"The Graduate","Drama",1967,106,8,256371,83,104.95
+"1077",433,"The Graduate","Romance",1967,106,8,256371,83,104.95
+"1078",434,"Who's Afraid of Virginia Woolf?","Drama",1966,131,8,69818,75,NA
+"1079",435,"The Sound of Music","Biography",1965,172,8,210152,63,163.21
+"1080",435,"The Sound of Music","Drama",1965,172,8,210152,63,163.21
+"1081",435,"The Sound of Music","Family",1965,172,8,210152,63,163.21
+"1082",436,"Doctor Zhivago","Drama",1965,197,8,70919,69,111.72
+"1083",436,"Doctor Zhivago","Romance",1965,197,8,70919,69,111.72
+"1084",436,"Doctor Zhivago","War",1965,197,8,70919,69,111.72
+"1085",437,"Per un pugno di dollari","Action",1964,99,8,200919,65,14.5
+"1086",437,"Per un pugno di dollari","Drama",1964,99,8,200919,65,14.5
+"1087",437,"Per un pugno di dollari","Western",1964,99,8,200919,65,14.5
+"1088",438,"8½","Drama",1963,138,8,110504,91,0.05
+"1089",439,"Vivre sa vie: Film en douze tableaux","Drama",1962,80,8,28784,NA,NA
+"1090",440,"The Hustler","Drama",1961,134,8,75835,90,8.28
+"1091",440,"The Hustler","Sport",1961,134,8,75835,90,8.28
+"1092",441,"La dolce vita","Comedy",1960,174,8,67767,95,19.52
+"1093",441,"La dolce vita","Drama",1960,174,8,67767,95,19.52
+"1094",442,"Rio Bravo","Action",1959,141,8,57163,93,12.54
+"1095",442,"Rio Bravo","Drama",1959,141,8,57163,93,12.54
+"1096",442,"Rio Bravo","Western",1959,141,8,57163,93,12.54
+"1097",443,"Anatomy of a Murder","Crime",1959,161,8,60741,95,11.9
+"1098",443,"Anatomy of a Murder","Drama",1959,161,8,60741,95,11.9
+"1099",443,"Anatomy of a Murder","Mystery",1959,161,8,60741,95,11.9
+"1100",444,"Touch of Evil","Crime",1958,95,8,99324,99,2.24
+"1101",444,"Touch of Evil","Drama",1958,95,8,99324,99,2.24
+"1102",444,"Touch of Evil","Film-Noir",1958,95,8,99324,99,2.24
+"1103",445,"Cat on a Hot Tin Roof","Drama",1958,108,8,45933,84,17.57
+"1104",446,"Sweet Smell of Success","Drama",1957,96,8,28755,100,NA
+"1105",446,"Sweet Smell of Success","Film-Noir",1957,96,8,28755,100,NA
+"1106",447,"The Killing","Crime",1956,84,8,82853,91,NA
+"1107",447,"The Killing","Drama",1956,84,8,82853,91,NA
+"1108",447,"The Killing","Film-Noir",1956,84,8,82853,91,NA
+"1109",448,"The Night of the Hunter","Crime",1955,92,8,83134,99,0.65
+"1110",448,"The Night of the Hunter","Drama",1955,92,8,83134,99,0.65
+"1111",448,"The Night of the Hunter","Film-Noir",1955,92,8,83134,99,0.65
+"1112",449,"La Strada","Drama",1954,108,8,59100,NA,NA
+"1113",450,"Les diaboliques","Crime",1955,117,8,62113,NA,NA
+"1114",450,"Les diaboliques","Drama",1955,117,8,62113,NA,NA
+"1115",450,"Les diaboliques","Horror",1955,117,8,62113,NA,NA
+"1116",451,"Stalag 17","Comedy",1953,120,8,51463,84,NA
+"1117",451,"Stalag 17","Drama",1953,120,8,51463,84,NA
+"1118",451,"Stalag 17","War",1953,120,8,51463,84,NA
+"1119",452,"Roman Holiday","Comedy",1953,118,8,129039,78,NA
+"1120",452,"Roman Holiday","Romance",1953,118,8,129039,78,NA
+"1121",453,"A Streetcar Named Desire","Drama",1951,122,8,100386,97,8
+"1122",454,"In a Lonely Place","Drama",1950,94,8,27502,NA,NA
+"1123",454,"In a Lonely Place","Film-Noir",1950,94,8,27502,NA,NA
+"1124",454,"In a Lonely Place","Mystery",1950,94,8,27502,NA,NA
+"1125",455,"Kind Hearts and Coronets","Comedy",1949,106,8,34918,NA,NA
+"1126",455,"Kind Hearts and Coronets","Crime",1949,106,8,34918,NA,NA
+"1127",456,"Rope","Crime",1948,80,8,131796,73,NA
+"1128",456,"Rope","Drama",1948,80,8,131796,73,NA
+"1129",456,"Rope","Mystery",1948,80,8,131796,73,NA
+"1130",457,"Out of the Past","Crime",1947,97,8,33425,NA,NA
+"1131",457,"Out of the Past","Drama",1947,97,8,33425,NA,NA
+"1132",457,"Out of the Past","Film-Noir",1947,97,8,33425,NA,NA
+"1133",458,"Brief Encounter","Drama",1945,86,8,36486,92,NA
+"1134",458,"Brief Encounter","Romance",1945,86,8,36486,92,NA
+"1135",459,"The Best Years of Our Lives","Drama",1946,170,8,57985,93,23.65
+"1136",459,"The Best Years of Our Lives","Romance",1946,170,8,57985,93,23.65
+"1137",459,"The Best Years of Our Lives","War",1946,170,8,57985,93,23.65
+"1138",460,"The Maltese Falcon","Crime",1941,100,8,150373,96,2.11
+"1139",460,"The Maltese Falcon","Film-Noir",1941,100,8,150373,96,2.11
+"1140",460,"The Maltese Falcon","Mystery",1941,100,8,150373,96,2.11
+"1141",461,"The Grapes of Wrath","Drama",1940,129,8,86306,96,0.06
+"1142",461,"The Grapes of Wrath","History",1940,129,8,86306,96,0.06
+"1143",462,"The Wizard of Oz","Adventure",1939,102,8,373957,92,2.08
+"1144",462,"The Wizard of Oz","Family",1939,102,8,373957,92,2.08
+"1145",462,"The Wizard of Oz","Fantasy",1939,102,8,373957,92,2.08
+"1146",463,"La règle du jeu","Comedy",1939,110,8,27086,NA,NA
+"1147",463,"La règle du jeu","Drama",1939,110,8,27086,NA,NA
+"1148",464,"All Quiet on the Western Front","Drama",1930,152,8,57846,91,3.27
+"1149",464,"All Quiet on the Western Front","War",1930,152,8,57846,91,3.27
+"1150",465,"Bronenosets Potemkin","Drama",1925,75,8,53900,97,0.05
+"1151",465,"Bronenosets Potemkin","History",1925,75,8,53900,97,0.05
+"1152",465,"Bronenosets Potemkin","Thriller",1925,75,8,53900,97,0.05
+"1153",466,"Knives Out","Comedy",2019,130,7.9,485551,82,165.36
+"1154",466,"Knives Out","Crime",2019,130,7.9,485551,82,165.36
+"1155",466,"Knives Out","Drama",2019,130,7.9,485551,82,165.36
+"1156",467,"Manbiki kazoku","Crime",2018,121,7.9,65749,93,3.31
+"1157",467,"Manbiki kazoku","Drama",2018,121,7.9,65749,93,3.31
+"1158",468,"Marriage Story","Comedy",2019,137,7.9,257368,94,2
+"1159",468,"Marriage Story","Drama",2019,137,7.9,257368,94,2
+"1160",468,"Marriage Story","Romance",2019,137,7.9,257368,94,2
+"1161",469,"Call Me by Your Name","Drama",2017,132,7.9,221853,93,18.1
+"1162",469,"Call Me by Your Name","Romance",2017,132,7.9,221853,93,18.1
+"1163",470,"I, Daniel Blake","Drama",2016,100,7.9,55165,78,0.26
+"1164",471,"Isle of Dogs","Animation",2018,101,7.9,143843,82,32.02
+"1165",471,"Isle of Dogs","Adventure",2018,101,7.9,143843,82,32.02
+"1166",471,"Isle of Dogs","Comedy",2018,101,7.9,143843,82,32.02
+"1167",472,"Hunt for the Wilderpeople","Adventure",2016,101,7.9,115161,81,5.2
+"1168",472,"Hunt for the Wilderpeople","Comedy",2016,101,7.9,115161,81,5.2
+"1169",472,"Hunt for the Wilderpeople","Drama",2016,101,7.9,115161,81,5.2
+"1170",473,"Captain Fantastic","Comedy",2016,118,7.9,196495,72,5.88
+"1171",473,"Captain Fantastic","Drama",2016,118,7.9,196495,72,5.88
+"1172",474,"Sing Street","Comedy",2016,106,7.9,86656,79,3.24
+"1173",474,"Sing Street","Drama",2016,106,7.9,86656,79,3.24
+"1174",474,"Sing Street","Music",2016,106,7.9,86656,79,3.24
+"1175",475,"Thor: Ragnarok","Action",2017,130,7.9,609658,74,315.06
+"1176",475,"Thor: Ragnarok","Adventure",2017,130,7.9,609658,74,315.06
+"1177",475,"Thor: Ragnarok","Comedy",2017,130,7.9,609658,74,315.06
+"1178",476,"Jojo Rabbit","Comedy",2019,108,7.9,316559,58,0.35
+"1179",476,"Jojo Rabbit","Drama",2019,108,7.9,316559,58,0.35
+"1180",476,"Jojo Rabbit","War",2019,108,7.9,316559,58,0.35
+"1181",477,"Arrival(II)","Drama",2016,116,7.9,608691,81,100.55
+"1182",477,"Arrival(II)","Sci-Fi",2016,116,7.9,608691,81,100.55
+"1183",478,"Star Wars: Episode VII - The Force Awakens","Action",2015,138,7.9,869756,80,936.66
+"1184",478,"Star Wars: Episode VII - The Force Awakens","Adventure",2015,138,7.9,869756,80,936.66
+"1185",478,"Star Wars: Episode VII - The Force Awakens","Sci-Fi",2015,138,7.9,869756,80,936.66
+"1186",479,"Before Midnight","Drama",2013,109,7.9,144292,94,8.11
+"1187",479,"Before Midnight","Romance",2013,109,7.9,144292,94,8.11
+"1188",480,"X-Men: Days of Future Past","Action",2014,132,7.9,667551,75,233.92
+"1189",480,"X-Men: Days of Future Past","Adventure",2014,132,7.9,667551,75,233.92
+"1190",480,"X-Men: Days of Future Past","Sci-Fi",2014,132,7.9,667551,75,233.92
+"1191",481,"Bir Zamanlar Anadolu'da","Crime",2011,157,7.9,43073,82,0.14
+"1192",481,"Bir Zamanlar Anadolu'da","Drama",2011,157,7.9,43073,82,0.14
+"1193",482,"The Artist(I)","Comedy",2011,100,7.9,232737,89,44.67
+"1194",482,"The Artist(I)","Drama",2011,100,7.9,232737,89,44.67
+"1195",482,"The Artist(I)","Romance",2011,100,7.9,232737,89,44.67
+"1196",483,"Edge of Tomorrow","Action",2014,113,7.9,609165,71,100.21
+"1197",483,"Edge of Tomorrow","Adventure",2014,113,7.9,609165,71,100.21
+"1198",483,"Edge of Tomorrow","Sci-Fi",2014,113,7.9,609165,71,100.21
+"1199",484,"Amour","Drama",2012,127,7.9,94442,94,6.74
+"1200",485,"Un prophète","Crime",2009,155,7.9,94628,90,2.08
+"1201",485,"Un prophète","Drama",2009,155,7.9,94628,90,2.08
+"1202",486,"Moon","Drama",2009,97,7.9,338889,67,5.01
+"1203",486,"Moon","Mystery",2009,97,7.9,338889,67,5.01
+"1204",486,"Moon","Sci-Fi",2009,97,7.9,338889,67,5.01
+"1205",487,"Låt den rätte komma in","Crime",2008,114,7.9,207154,82,2.12
+"1206",487,"Låt den rätte komma in","Drama",2008,114,7.9,207154,82,2.12
+"1207",487,"Låt den rätte komma in","Fantasy",2008,114,7.9,207154,82,2.12
+"1208",488,"District 9","Action",2009,112,7.9,643467,81,115.65
+"1209",488,"District 9","Sci-Fi",2009,112,7.9,643467,81,115.65
+"1210",488,"District 9","Thriller",2009,112,7.9,643467,81,115.65
+"1211",489,"The Wrestler","Drama",2008,109,7.9,291664,80,26.24
+"1212",489,"The Wrestler","Sport",2008,109,7.9,291664,80,26.24
+"1213",490,"Jab We Met","Comedy",2007,138,7.9,48356,NA,0.41
+"1214",490,"Jab We Met","Drama",2007,138,7.9,48356,NA,0.41
+"1215",490,"Jab We Met","Romance",2007,138,7.9,48356,NA,0.41
+"1216",491,"Boyhood(I)","Drama",2014,165,7.9,338486,100,25.38
+"1217",492,"4 luni, 3 saptamâni si 2 zile","Drama",2007,113,7.9,57296,97,1.19
+"1218",493,"Star Trek","Action",2009,127,7.9,580655,82,257.73
+"1219",493,"Star Trek","Adventure",2009,127,7.9,580655,82,257.73
+"1220",493,"Star Trek","Sci-Fi",2009,127,7.9,580655,82,257.73
+"1221",494,"In Bruges","Comedy",2008,107,7.9,394664,67,7.76
+"1222",494,"In Bruges","Crime",2008,107,7.9,394664,67,7.76
+"1223",494,"In Bruges","Drama",2008,107,7.9,394664,67,7.76
+"1224",495,"The Man from Earth","Drama",2007,87,7.9,176344,NA,NA
+"1225",495,"The Man from Earth","Fantasy",2007,87,7.9,176344,NA,NA
+"1226",495,"The Man from Earth","Mystery",2007,87,7.9,176344,NA,NA
+"1227",496,"Letters from Iwo Jima","Action",2006,141,7.9,155207,89,13.76
+"1228",496,"Letters from Iwo Jima","Adventure",2006,141,7.9,155207,89,13.76
+"1229",496,"Letters from Iwo Jima","Drama",2006,141,7.9,155207,89,13.76
+"1230",497,"The Fall","Adventure",2006,117,7.9,108103,64,2.28
+"1231",497,"The Fall","Drama",2006,117,7.9,108103,64,2.28
+"1232",497,"The Fall","Fantasy",2006,117,7.9,108103,64,2.28
+"1233",498,"Life of Pi","Adventure",2012,127,7.9,587941,79,124.99
+"1234",498,"Life of Pi","Drama",2012,127,7.9,587941,79,124.99
+"1235",498,"Life of Pi","Fantasy",2012,127,7.9,587941,79,124.99
+"1236",499,"Fantastic Mr. Fox","Animation",2009,87,7.9,204966,83,21
+"1237",499,"Fantastic Mr. Fox","Adventure",2009,87,7.9,204966,83,21
+"1238",499,"Fantastic Mr. Fox","Comedy",2009,87,7.9,204966,83,21
+"1239",500,"C.R.A.Z.Y.","Comedy",2005,129,7.9,31636,81,NA
+"1240",500,"C.R.A.Z.Y.","Drama",2005,129,7.9,31636,81,NA
