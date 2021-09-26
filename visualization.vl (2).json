@@ -1,0 +1,27 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 500,
+  "projection": {"type": "albersUsa"},
+  "layer": [
+    {
+      "data": {
+        "url": "data/us-10m.json",
+        "format": {"type": "topojson", "feature": "states"}
+      },
+      "mark": {"type": "geoshape", "fill": "skyblue", "stroke": "white"}
+    },
+    {
+      "data": {"url": "data/airports.csv"},
+      "projection": {"type": "albersUsa"},
+      "mark": "point",
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "size": {"value": 12}
+      },
+      "config": {"view": {"stroke": "transparent"}}
+    }
+  ],
+  "config": {}
+}
