@@ -1,0 +1,28 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "data/fire_archive_M6_101673.csv"
+  },
+  "title": "The number of bushfires that occurred every day in each month from September 1, 2019 to December 31, 2019",
+  "width": 800,
+  "height": 500,
+  "mark": {
+    "type": "line",
+    "interpolate": "monotone"
+  },
+  "encoding": {
+    "x": {
+      "field": "acq_date",
+      "timeUnit": "date"
+    },
+    "y": {
+      "aggregate": "count"
+    },
+    "color": {
+      "timeUnit": "yearmonth",
+      "type": "nominal",
+      "field": "acq_date",
+      "title": "Month"
+    }
+  }
+}

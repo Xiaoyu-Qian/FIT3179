@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Australian bushfire analysis</title>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+</head>
+<body>
+  <div class="page">
+    <h1>Australian bushfire analysis</h1>
+    <p class="description">The Australian bushfire has led to a massive loss to wildlife, forest area and has even caused human casualties, including firefighters from the U.S. It has even affected the air quality in nearby cities such as Sydney and Melbourne. We will take a look at fire data obtained from NASA satellite's MODIS and VIIRS.</p>
+    <div class="pure-g">
+      <h2>This is the first section</h2>
+      <div class='desc'>The first chart uses a map to indicate the brightness of a bushfire in each location. The brightness is the flame pixel measured in Kelvin. The higher the brightness, the greater the fire in the area.</div>
+      <div id='brightness_map'></div>
+    </div>
+    <div class="pure-g">
+      <h2>This is the second section</h2>
+      <div class='desc'>The second chart uses a histogram to show the distribution of the number of bushfires that occurred every day between September 1, 2019 and December 31, 2019.</div>
+      <div id='bushfire_num'></div>
+    </div>
+    <div class="pure-g">
+      <h2>This is the third section</h2>
+      <div class='desc'>The third chart uses a histogram to show the distribution of the number of bushfire satellite types that occurred every day between September 1, 2019 and December 31, 2019.</div>
+      <div id='bushfire_satellite_num'></div>
+    </div>
+    <div class="pure-g">
+      <h2>This is the fourth section</h2>
+      <div class='desc'>The fourth chart uses a discount graph to show the distribution of the number of bushfires that occurred every day in each month between September 2019 and December 2019.</div>
+      <div id='bushfire_num_every_month'></div>
+    </div>
+    <div class="pure-g">
+      <h2>This is the fifth section</h2>
+      <div class='desc'>The fifth chart uses an area graph to show the average distribution of scans for bushfires that occurred every day between September 1, 2019 and December 31, 2019.</div>
+      <div id='bushfire_mean'></div>
+    </div>
+  </div>
+  <footer>
+    ©Copyright 2021 webwine.com 22342 EI Paseo Unit A Rancho Santa Margarita CA 92688 United States
+  </footer>
+  <script type='text/javascript'>
+    var specVis1 = "js/bushfire_brightness_map.json";
+    var specVis2 = "js/bushfire_num.json"
+    var specVis3 = "js/bushfire_satellite_num.json"
+    var specVis4 = "js/bushfire_num_every_month.json"
+    var specVis5 = "js/bushfire_mean.json"
+
+    vegaEmbed('#brightness_map', specVis1).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#bushfire_num', specVis2).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#bushfire_satellite_num', specVis3).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#bushfire_num_every_month', specVis4).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#bushfire_mean', specVis5).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+  </script>
+</body>
+</html>

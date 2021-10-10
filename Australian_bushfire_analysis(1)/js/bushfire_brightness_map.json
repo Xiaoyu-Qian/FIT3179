@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 500,
+  "title": "The brightness and temperature of bushfires from September 1, 2019 to December 31, 2019",
+  "layer": [
+    {
+      "data": {
+        "url": "js/aus-10m.json",
+        "format": {"type": "topojson", "feature": "aus_110m"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+    },
+    {
+      "data": {
+        "url": "data/fire_archive_M6_101673.csv"
+      },
+      "mark": {"type": "circle", "tooltip": {"content": "data"}},
+      "encoding": {
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "color": {
+          "field": "brightness",
+          "type": "quantitative",
+          "scale": {"scheme": "reds"}
+        }
+      }
+    }
+  ]
+}

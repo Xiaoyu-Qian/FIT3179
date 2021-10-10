@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 500,
+  "title": "The number of bushfire satellite types from September 1, 2019 to December 31, 2019",
+  "description": "A simple bar chart with embedded data.",
+  "data": {
+    "url": "data/fire_archive_M6_101673.csv"
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "acq_date", "timeUnit": "yearmonthdate"},
+    "y": {"aggregate": "count", "stack": "normalize"},
+    "color": {
+      "type": "nominal",
+      "field": "satellite",
+      "scale": {
+        "domain": [
+          "Terra",
+          "Aqua"
+        ],
+        "range": [
+          "#e7ba52",
+          "#aec7e8"
+        ]
+      },
+      "title": "Satellite Type"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #e1e1e1;
+}
+
+.page{
+    width: 1000px;
+    background-color: white;
+    margin: auto;
+    padding: 35px 50px 50px 50px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0 0 20px 0;
+}
+
+p.description {
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.pure-g {
+    margin-bottom: 50px;
+    border: 1px solid #e1e1e1;
+}
+
+.pure-g h2 {
+    margin: 0;
+    padding: 10px;
+}
+
+.pure-g .desc {
+    border-bottom: 1px solid #e1e1e1;
+    padding: 0 10px 10px;
+}
+
+.pure-g div:last-child {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+}
