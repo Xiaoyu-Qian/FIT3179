@@ -1,0 +1,51 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "data/fire_archive_M6_101673.csv"
+  },
+  "title": "The average scan of bushfires that occurred every day from September 1, 2019 to December 31, 2019",
+  "width": 800,
+  "height": 500,
+  "config": {
+    "view": {
+      "strokeWidth": 0,
+      "step": 13
+    },
+    "axis": {
+      "domain": false
+    }
+  },
+  "transform": [
+    {
+      "calculate": "substring((datum.acq_time / 1000 >= 1 ? datum.acq_time: datum.acq_time / 100 >= 1 ? ('0' + datum.acq_time) : ('00' + datum.acq_time)), 0, 2)",
+      "as": "aqc_hour"
+    }
+  ],
+  "mark": "rect",
+  "encoding": {
+    "x": {
+      "field": "acq_date",
+      "timeUnit": "date",
+      "type": "ordinal",
+      "title": "Day",
+      "axis": {
+        "labelAngle": 0,
+        "format": "%e"
+      }
+    },
+    "y": {
+      "field": "aqc_hour",
+      "type": "ordinal",
+      "title": "Hour"
+    },
+    "color": {
+      "field": "brightness",
+      "aggregate": "mean",
+      "type": "quantitative",
+      "legend": {
+        "title": null
+      },
+      "scale": {"scheme": "reds"}
+    }
+  }
+}
